@@ -1,9 +1,11 @@
 import requests
 from PyPDF2 import PdfReader
 from io import BytesIO
+import csv
 import nltk
 from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
+import urllib3
+
 
 
 from langdetect import detect_langs
@@ -17,8 +19,10 @@ def is_spanish(text, target_lang='es'):
             return True
     return False
 
-url = "https://repositorio.minedu.gob.pe/bitstream/handle/20.500.12799/7490/Yachachinapaq%20simikuna%20-%20Urin%20Qichwa%20vocabulario%20pedag%C3%B3gico%20quechua%20sure%C3%B1o.pdf?sequence=1&isAllowed=y"
 
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+url = "https://fcctp.usmp.edu.pe/librosfcctp/DICCIONARIO-Quechua-espanol-VOL_2.pdf"
 
 response = requests.get(url)
 
@@ -29,11 +33,10 @@ pdf_file = BytesIO (response.content)
 
 pdf_reader = PdfReader(pdf_file)
 
-text = ""
+text = " "
 for page in pdf_reader.pages:
     text += page.extract_text()
 
 
-words = text.split()
 
-print(words[:10])
+print (text)
