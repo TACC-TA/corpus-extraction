@@ -1,0 +1,231 @@
+ID,N°,Tipo,T,Quechua ,Traducción (español)
+S001,1,Palabra,W,Chiri,Frío
+S002,2,Palabra,W,Chuchu,Duro
+S003,3,Palabra,W,Lliklla,Manta
+S004,4,Palabra,W,Wist´u,Cojo
+S005,5,Palabra,W,Llant´a,Leña
+S006,6,Palabra,W,T´oqo,Hoyo
+S007,7,Palabra,W,Pichinku,Gorrión
+S008,8,Palabra,W,Ninri,Oreja
+S009,9,Palabra,W,Poqo,Maduro
+S010,10,Palabra,W,Ñuqñu,Requesón
+S011,11,Palabra,W,Llulla,Mentirosa
+S012,12,Palabra,W,Qosa,Marido
+S013,13,Palabra,W,Kachi,Sal
+S014,14,Palabra,W,Pisqo,Jilguero
+S015,15,Palabra,W,Misk’i,Dulce
+S016,16,Palabra,W,Q’ayma,Desabrido
+S017,17,Palabra,W,Qanra,"Sucio, muy cochino"
+S018,18,Palabra,W,Sumaq,Bonito
+S019,19,Palabra,W,Ch’uya,"Limpio,claro"
+S020,20,Palabra,W,P’oshqo,Salado
+S021,21,Palabra,W,Millay,Feo
+S022,22,Palabra,W,Hatun,Grande
+S023,23,Palabra,W,Huch´uy,Pequeño
+S024,24,Palabra,W,Rakhu,Grueso
+S025,25,Palabra,W,K´ikllu,Angosto
+S026,26,Palabra,W,Nishu,Demasiado
+S027,27,Palabra,W,Samp’a,Liviano
+S028,28,Palabra,W,Uma nanay,Dolor de cabeza
+S029,29,Palabra,W,Q’oñichiy,Hacer calentar
+S030,30,Palabra,W,Ruphachiy,Hacer quemar
+S031,31,Palabra,W,T’impuchiy,Hacer hervir
+S032,32,Palabra,W,Watuy,"Visitar, extrañar"
+S033,33,Palabra,W,Tapuy,Preguntar
+S034,34,Palabra,W,Kuchuy,Cortar
+S035,35,Palabra,W,Runkhiy,Sacar cascara gruesa
+S036,36,Palabra,W,Phukuy,Soplar
+S037,37,Palabra,W,T’eqway,Pelar
+S038,38,Palabra,W,Hank’ay,Tostar
+S039,39,Palabra,W,Mishk’ichay,Endulzar
+S040,40,Palabra,W,Malliy,Lavar mano
+S041,41,Palabra,W,Teqtichiy,Freír
+S042,42,Palabra,W,Chirichay,Hacer enfriar
+S043,43,Oración,S,Manan allinchu kanki,No estoy bien
+S044,44,Oración,S,Qan killikachaq kanki,Tú eres ingeniero
+S045,45,Oración,S,Qan sumaq harawikunata qhelqanki,Tú escribes hermosas poesías
+S046,46,Oración,S,Anta situwa killapi rimanku,Ellos hablan en el mes de julio
+S047,47,Oración,S,Wallpata Qhapaq raymi killapi mikhuni,Como gallina en diciembre
+S048,48,Oración,S,Phuyukuna teqsimuyupi qhawasqanchis wayrapi unu sut´ukunan tuytuqmi kanku,Las nubes que vemos en el cielo son gotitas de agua flotando en el aire.
+S049,49,Oración,S,Suwaqnin runa llaqtamanta wanaqman purin,El hombre que robó camina desde el pueblo hacia la cárcel
+S050,50,Oración,S,Tarpuq sara saramanta wasiman phawan,El agricultor corre desde el maizal hacia su casa
+S051,51,Oración,S,Paykuna qochamanta rit’i orqokama purinku,Ellos caminan desde la laguna hasta el nevado
+S052,52,Oración,S,Kakanku phawan,Su tío corre
+S053,53,Oración,S,Ususinwan wayk´un,Cocina con su hija
+S054,54,Oración,S,Churinchiskuna pukllan,Nuestro hijos juegan
+S055,55,Oración,S,Qan mamanchiswan tiyanki,Tú vives con nuestra mamá
+S056,56,Oración,S,Paya wawanwan pañaman rinku,La abuela y el niño van hacia la derecha
+S057,57,Oración,S,Ñañaykiwan llamk´aranki,Trabajaste con tu hermana
+S058,58,Oración,S,Qan paqo kanki,Tú eres sacerdote andino
+S059,59,Oración,S,Noqa wawqeywan pukllani,Yo juego con mi hermano
+S060,60,Oración,S,Paykuna urayman purinku,Ellos caminan hacia abajo
+S061,61,Oración,S,Wawqen puñun,Su hermano duerme
+S062,62,Oración,S,Payanku waqan,Su abuela llora
+S063,63,Oración,S,Nishu karu kasqa,Era bastante lejos
+S064,64,Oración,S,Noqa puñusaq,Yo dormiré
+S065,65,Oración,S,Noqa puñusharani,Estaba durmiendo
+S066,66,Oración,S,Noqayku puriq kayku,Nosotros solemos caminar
+S067,67,Oración,S,Qasashanpunin,Siempre está helando
+S068,68,Oración,S,Chakraypi oqata tarpuni,En mi chacra siembro oca
+S069,69,Oración,S,Chakra tarpunaykupaq raymichayku,Para la siembra hacemos fiesta
+S070,70,Oración,S,Peruq hatun kusi raymin,La fiesta del Perú/Día de la independencia
+S071,71,Oración,S,"Chhullimanta, ch´oqhumanta hampikunapaq allin.",Es bueno para curarse de la gripe y la tos
+S072,72,Oración,S,"Llaqtaypi wakata, khuchita, qowita, k´ankata, washwatawan uywanku.","En mi pueblo crian vaca, cerdo, cuy, gallo, y pato"
+S073,73,Oración,S,Manan taytay takirqanchu hinaqa puñuran,Mi papá no había cantado (y) así durmió
+S074,74,Oración,S,Raúl riman ichaqa Rodolfo takin.,Raúl habla pero Rodolfo canta
+S075,75,Oración,S,Rodolfo qochaman wichan chaymanta llaqtaman kutin,Rodolfo sube a la laguna después/luego regresa al pueblo
+S076,76,Oración,S,Mayqentaq hamusqarí,Y cuál de ellos ha venido?
+S077,77,Oración,S,Mayqenpas tusuchun,Que baile cualquiera
+S078,78,Oración,S,Manan pipas yachayta munanchu,Nadie quiere estudiar
+S079,79,Oración,S,Manan mayqenpas waka kanchu,No hay ninguna vaca
+S080,80,Oración,S,"Ama hina kaychu, apamuwanki t’antata","Por favor, me traes pan"
+S081,81,Oración,S,Llapanku tiyashanku,Todos estan sentados
+S082,82,Oración,S,Wakinchá kusikuranku,Algunos se habrán alegrado
+S083,83,Oración,S,Kunanmantaqa aman rimankichu,Desde hoy no hablaras
+S084,84,Oración,S,Trigomantan t’antaqa ruwakun,El pan se hace de trigo
+S085,85,Oración,S,Kay washkhaqa paqpamantan,Ésta soga es de magué
+S086,86,Oración,S,Llaqtaykimantan hamuni,Vengo de tu pueblo
+S087,87,Oración,S,Noqa wakata michirani,Yo pastaba la vaca
+S088,88,Oración,S,Maypin rumi kashan,En donde esta la piedra
+S089,89,Oración,S,Ishkay killapin yachasaq,En dos meses voy a aprender
+S090,90,Oración,S,Tiyuykin uywapi hamusqa,Tu tío vino en caballo
+S091,91,Oración,S,Chakrapi waka kashan,La vaca está en la chakra
+S092,92,Oración,S,Rodolfo wasipi  kashan,Rodolfo está en la casa
+S093,93,Oración,S,Qochapi Raul waqashan,Raúl está llorando en el lago
+S094,94,Oración,S,Mayupi challwata hap’inchis,Cogemos peces en el río
+S095,95,Oración,S,Rit’ipi pukllanchis,Jugamos en el nevado
+S096,96,Oración,S,Orqopi purinkichis,Caminan en el cerro
+S097,97,Oración,S,Ñanpi wakata qatirani,Arreé la vaca en el camino
+S098,98,Oración,S,Pampapi p'itanchis,Corremos en la pampa
+S099,99,Oración,S,T’urupi allankichis,Escarban en el barro
+S100,100,Oración,S,Sach´api chirimuya kashan,Hay chirimoya en el árbol
+S101,101,Oración,S,Yunkapi takarani,Hago leña en la selva
+S102,102,Oración,S,Wakaypaqmi kay q’achu,Este pasto es para mi vaca
+S103,103,Oración,S,Kay wasiqa pusaq pachamanta kichakun,La oficina abre a las 8 de la mañana
+S104,104,Oración,S,Manan castellanuta rimanichu,No hablo castellano.
+S105,105,Oración,S,Sasachaykunkin imaymana tramitikunapaq,Tendrá problemas para otros trámites
+S106,106,Oración,S,Awichuyqa ch’umpi kuchuyuqmi  kasharqan,Mi abuelo llevaba un sombrero marrón
+S107,107,Oración,S,Uwihakunaqa pampapi kasharqanku,Las ovejas estaban en el campo
+S108,108,Oración,S,Runa simillapi rimayta munani,Prefiero hablar solamente en quechua
+S109,109,Oración,S,Killachay p’unchawmanta ch’askachay p´unchawkama llank’ani,Trabajo desde lunes hasta viernes
+S110,110,Oración,S,Qan antichay p’unchaw mikhunki,Tú comes el martes
+S111,111,Oración,S,Ayriway killapi pachamaman mikhuchinchis,Damos de comer a la Pachamama en el mes de abril
+S112,112,Oración,S,Ichaqa  runakunaq allin kayninqa kanman kikinkuwan kusisqa kaypischá.,Tal vez la cosa que sea más importante para las personas es que sean felices con ellos mismos.
+S113,113,Oración,S,Qankuna qhari willkaykichikwan mikhunkichis,Ustedes comen con su nieto
+S114,114,Oración,S,Noqayku wawaykuwan takiyku,Nosotros cantamos con nuestro bebé
+S115,115,Oración,S,Kunchanku michin,Su sobrino pastorea
+S116,116,Oración,S,Wawqenchiswan rimaranchis,Hablamos con nuestro hermano
+S117,117,Oración,S,Paykuna lloq’e punkukama rinku,Ellos van hacia la izquierda hasta la puerta
+S118,118,Oración,S,Warminchis t’ikata pallanku,Nuestras esposas recogen la flor
+S119,119,Oración,S,Qankuna turaykichiswan asirankichis,Ustedes se rieron con vuestro hermano
+S120,120,Oración,S,Taytaykiwan rimarani,Hablé con tu papá
+S121,121,Oración,S,Hatun mamayki wayk´un,Tu abuela cocina
+S122,122,Oración,S,Ñawpaq runakunaqa mink’api imatapas llank’aranku,Antes la gente trabajaba por compromiso de ayuda mutua
+S123,123,Oración,S,Payqa Lima llaqtapi tiyan,Ella vive en Lima
+S124,124,Oración,S,Mamayki kiru hampiq,Tu mamá es dentista
+S125,125,Oración,S,Pachak chaki sutuma qorachaqa ashkha saphiyuqmi,La valeriana posee muchísimas raíces
+S126,126,Oración,S,Pay kiru hampiq,Él/ella es odontóloga
+S127,127,Oración,S,Pisqukunaqa raprankunapi rakhu hatun phuruyuq,Las aves llevan en las alas plumas grandes y gruesas
+S128,128,Oración,S,Qollpa hallp´akunapiqa kachi poqon,"En los terrenos salitrosos, la sal madura"
+S129,129,Oración,S,Mamay kusisqa kashan,Mi mamá está feliz
+S130,130,Oración,S,Chaymantaña chukutaqa rantisunchis,Ya después compraremos el sombrero
+S131,131,Oración,S,Hatun tayta mamanchiskuna llank’anku,Nuestros abuelos trabajan
+S132,132,Oración,S,"Manan pipas llakikuytaqa munanchu, ichaqa allinta yachanchis saqenanchis kusikunapaq.","A nadie le gusta tener preocupaciones, pero sabemos lo bien que es deshacerse de ellos y relajarse."
+S133,133,Oración,S,Runakunaqa sawnanallayuqpuni puñunchis,Todas las personas dormimos con almohada
+S134,134,Oración,S,Yuraq siraraqa ch’aki ukhupaq hampin,El alacrán blanco es un remedio contra la tos convulsiva
+S135,135,Oración,S,Pay taytaywan wasikama purin,Ella camina con mi papá hasta la casa
+S136,136,Oración,S,Pay qollana,Él/ella es presidente
+S137,137,Oración,S,Qankuna illapachay p’unchaw rimankichis,Ustedes hablan el jueves
+S138,138,Oración,S,Uyaytan uphakusaq,Me lavaré la cara
+S139,139,Oración,S,Lliwpuni puririsun,"Vayamos todititos, sin faltar."
+S140,140,Oración,S,Huk warmi takiran,Canto una mujer
+S141,141,Oración,S,Chunka runakuna rimanqa,Diez persona hablarán
+S142,142,Oración,S,Llapan qharikuna llank´ashanku,Todos los varones están trabajando
+S143,143,Oración,S,Payllaña purichun,Él nomás ya que camine
+S144,144,Oración,S,Pisillaña yaku kasqa,Habia poquita agua
+S145,145,Oración,S,Supayta aparpamuwan,Me trajeron demasiado
+S146,146,Oración,S,Ashkhata mikhurparini,Comí bastante/comí harto
+S147,147,Oración,S,Noqanchis p’achakusunchis,Nosotros nos vestiremos
+S148,148,Oración,S,Hayk’aqmi yachanki,¿Cuándo vas a estudiar?
+S149,149,Oración,S,Maypi karanki,¿Dónde has estado?
+S150,150,Oración,S,Tutaraq hamusaq,Vengo en la mañanita
+S151,151,Oración,S,Hayk’akama yupayta yachanki,¿Hasta cuanto sabes contar?
+S152,152,Oración,S,Rit’ikama p’itani,Corro hasta la nieve
+S153,153,Oración,S,Qanrayku ñak’arini,Sufro por ti
+S154,154,Oración,S,Much’asqayrayku kusikun,Se alegró por besarle
+S155,155,Oración,S,Wawayrayku wayk´uni,Cocino por mi bebé
+S156,156,Oración,S,Sara sarapi tuparanchis,Nos encontramos en el maizal
+S157,157,Oración,S,Llusk’a llusk’allaña mayu,Es muy rebaloso el rio
+S158,158,Oración,S,Tayta mamay llaqtaman purinku,Mi mamá y mi papá caminan hacia el pueblo
+S159,159,Oración,S,Masa masa purinkichis,Caminan en parejas
+S160,160,Oración,S,Tusuqaypi sayk´urani,Me canse en el baile
+S161,161,Oración,S,Mamantin risqa,Fue en compañía de su mamá
+S162,162,Oración,S,Runakuna tukuy ima llank’aykunata ruwan,Las personas se dedican a todo tipo de trabajo
+S163,163,Oración,S,Kay kuchunata pimanpas saqemuy,Deja a cualquiera este cuchillo
+S164,164,Oración,S,Llapanchis wayk´unchis,Todos cocinamos
+S165,165,Oración,S,Sapallay wasita ruwani,Construyo solo mi casa
+S166,166,Oración,S,Kikiy yachay wasita rini,El mismo va a la escuela
+S167,167,Oración,S,Mana pipas tusunchu,Nadie baila
+S168,168,Oración,S,Taytay manan llank’anchu,Mi papá no trabaja
+S169,169,Oración,S,"Hukniray asikuymi karan, pasaqpaq thakta qon.","Fue una de esas raras sonrisas, ofreciendo confianza y tranquilidad para siempre."
+S170,170,Oración,S,Amas mikhunkichu,Dice que no vas a comer
+S171,171,Oración,S,Llaqtaypi taytacha Euleteriota hatunchaspa raymichanku,En mi pueblo al abuelo eulogio lo fetejan
+S172,172,Oración,S,Mana pipas kanchu,No hay nadie
+S173,173,Oración,S,Killachay p’unchawpi llank’ani,Trabajo el lunes
+S174,174,Oración,S,Simi mikhunapaq,La boca es para comer
+S175,175,Oración,S,Qanwanmi rimayta munani,Quiero hablar contigo
+S176,176,Oración,S,Masa turuwanmi llank’asaq,Trabajaré con la yunta
+S177,177,Oración,S,Masa turuwanmi llank’asaq,Con el perro y con el gato juegan
+S178,178,Oración,S,Takllawan masa turu yapun,Con la yunta ara el toro
+S179,179,Oración,S,Qoranawan ch’akmasaq,Voltearé la tierra con el tirapie
+S180,180,Oración,S,"Rodolfo, Raulpiwan takishanku",Rodolfo y Raúl (mas) están cantando
+S181,181,Oración,S,Taytay mamaypiwan llank’anku,Mi papá y con mi mamá trabajan
+S182,182,Oración,S,Chunka uraskama suyasqayki,Te espero hasta diez de la mañana
+S183,183,Oración,S,Hayk’akama yupayta yachanki,¿Hasta cuanto sabes contar?
+S184,184,Oración,S,Wasi wasiman hamunki,Vienes al techado (de casa)
+S185,185,Oración,S,Rumi rumipi urmarpani,Me caí en el pedregal
+S186,186,Oración,S,Sara sarapi tuparanchis,Nos encontramos en el maiza
+S187,187,Oración,S,Aqo aqo manka kashan,La olla está muy arenoso
+S188,188,Oración,S,Llusk’a llusk’allaña mayu,Es muy rebaloso el rio
+S189,189,Oración,S,Wayna sipaskuna hamuychis,Jóvenes y señoritas vengan
+S190,190,Oración,S,Warmi qharin puñusharanku,Esposos y esposas están durmiendo
+S191,191,Oración,S,Marthamanta allinpunin kasharqan ruwayninkuna allinpunin kay sasachaykunapi.,Estaba orgulloso de Martha y su comportamiento digno en circunstancias tan difíciles.
+S192,192,Oración,S,Llapallan wayna sipaskunata rimaykusaq,Les hablaré a todos jóvenes
+S193,193,Oración,S,Wakin tayta mamakuna takin,Algunos padres y madres cantan
+S194,194,Oración,S,"Sapa p´unchay onqosqa mamanman watukuq risqa, mikhuchisqa, llapan tuta larunpi kasqa.","Todos los días  él visitó a su madre enferma, la alimentó, y se quedó a su lado durante toda la noche."
+S195,195,Oración,S,Wawqe panaykuna wakata michin,Mis hermanos y hermanas pastorean la vaca
+S196,196,Oración,S,Warmi qharikuna llank’anku,Mujeres y varones trabajan
+S197,197,Oración,S,Warmi qhari tusun,Esposa y esposo baila/(las) parejas bailan
+S198,198,Oración,S,Tayta mamay llaqtaman purinku,Mi mamá y mi papá caminan hacia el pueblo
+S199,199,Oración,S,Runakuna tukuy ima llank’aykunata ruwanku,Las personas se dedican a todo tipo de trabajo
+S200,200,Oración,S,Tukuy ima raymikuna apakun,Se realiza todo tipo de fiestas
+S201,201,Oración,S,Chakra taypunaykupaq raymichay,Para la siembra hacemos fiesta
+S202,202,Oración,S,"Añay sinchi llank´ananman, Maggie wak suyuta llank´aq rinqa.","Gracias a su arduo trabajo, Maggie podría ir al extranjero para trabajar."
+S203,203,Oración,S,Kay kuchunata pimanpas saqemuy,Deja a cualquiera este cuchillo
+S204,204,Oración,S,Mayqenpas tusuchun,Que baile cualquiera
+S205,205,Oración,S,Lliw warmakuna rimanku,Hablan todos los niños
+S206,206,Oración,S,Wakin sipaskuna purinku,Algunas señoritas caminan
+S207,207,Oración,S,Sapallay wasita ruwani,Construyo solo mi casa
+S208,208,Oración,S,Kikiy yachay wasita rini,El mismo va a la escuela
+S209,209,Oración,S,Wakin warmikuna rimashan,Algunas mujeres están hablando
+S210,210,Oración,S,"Tawa wataq mitánmi kan: t´ika mit´a, q´oñi mit´a, inkill mit´a chiri mit´awan.","Hay cuatro estaciones: primavera, verano, otoño e invierno."
+S211,211,Oración,S,"Runakuna anchata khuyanku sapa nanay chhukusqanmanta, ichaqa maynillanpi kusisqa kanku mana nanayniyuq kaspa.","Las personas se quejan tanto en cada punzada de dolor, pero rara vez son felices cuando no lo sienten."
+S212,212,Oración,S,Qhelqa patara ñawinchayqa aswan kusiskuypunin kan runakunaq kamasqan,Leer los libros es lo más divertido que la humanidad ha inventado.
+S213,213,Oración,S,Qhepa kawsaypi ruwasqanchisqa kunan kawsaytan ruwan.,Las decisiones hechas en el pasado forman nuestro presente.
+S214,214,Oración,S,"Hatun simp´asqa chukchantan aparan, manataq ima llut´isqapis uyanpi karqanchu.","Llevaba su largo cabello oscuro trenzado, y no había rastro de maquillaje en su cara."
+S215,215,Oración,S,Kanmi runakuna anchata yachankuman kikinkumanta wak runakunamantaqa.,Hay personas que pueden aprender más de sí mismas que de otras.
+S216,216,Oración,S,Kay teqsi muyupi kanmi huk suyashan hukta.,Alguien siempre está esperando por alguien más en el mundo.
+S217,217,Oración,S,"Huk warmiqa manan ukukuchu, payqa manan sach´a sach´ata ayqekunqachu.","Una esposa no es un oso, ella no huirá a los bosques."
+S218,218,Oración,S,"Kawsayqa huk chocolati caja nisqahinan, manan hayk´aqpas imatachus tarinki chayta yachankichu.","La vida es como una caja de chocolates, nunca sabes lo que obtendrás."
+S219,219,Oración,S,Huk llanthu allin thak yana t´oqokunamanta waykuramusqa. ,Una paz sombría y perfecta se filtró de las ventanas negras.
+S220,220,Oración,S,Hukkaq larupi qoraqa q´omerpunin kan.,La hierba siempre es más verde en el otro lado.
+S221,221,Oración,S,"Yachaqkunaq samanan killakunaqa ishkay killan kan, kamay killamanta poqoy killakama.","Las vacaciones de los estudiantes generalmente duran dos meses, de enero  hasta finales de febrero."
+S222,222,Oración,S,"Ukhupi, wayraqa kuruyuqmi asnasqa.","En el interior, el aire es mohoso y fétido."
+S223,223,Oración,S,"Manan imapas qokunchu sichus pachak watuyq kaqtiykipas, huk wata, utaq huk siman ñawpaqpi, llapanta ñawpaqpipuni tarinki.","No importa si tienes cien años, un año, o una semana por delante, siempre tienes todo por delante."
+S224,224,Oración,S,Imapas harawi kanmanmi pipas harawi ruwaq kanmanmi.,Todo puede ser poesía y cualquiera puede ser un poeta.
+S225,225,Oración,S,"Ch´usaq utaq ashkhapi sonqo, ¿Imaynapitaq t´aqakunman? Runakuna kanku, kikinninkupi, tukuy larupi sapallanku.","En el corazón de un desierto o en una multitud, ¿cuál es la diferencia? Las personas son, en esencia, solitarias en todas partes."
+S226,226,Oración,S,Tom mishk´i qosqan qhepaman chaskichiskusqa.,Tom fue aceptado por sus amigos después de que les ofreció dulces.
+S227,227,Oración,S,Asikullaq runapiqa amapunin sonqoykita churankichu.,Nunca confíes en una persona que siempre está sonriendo.
+S228,228,Oración,S,Ukhu wasiqa hatunmi qhawakusqa pisi tiyanakunalla kaqtin.,La habitación parecía espaciosa porque había muy pocos muebles en ella.
+S229,229,Oración,S,Harawiqa runaq kunkan ch´uya rimaymi; Huk t´oqway wakin munaymanta.,La poesía es la sincera voz del alma humana; Una explosión de un cierto tipo de pasión.
+S230,230,Oración,S,"Sichus huk sumaq lawayuq chhullunkuta rikuni chayqa, manapunin mana mallinichu.","Cuando veo helado con crema batida, nunca puedo contenerme."

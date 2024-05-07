@@ -1,0 +1,231 @@
+ID,N°,Tipo,T,Quechua ,Traducción (español)
+T001,1,Palabra,W,K'irisqa,Herido
+T002,2,Palabra,W,Wakcha,Huérfano
+T003,3,Palabra,W,Llulla,Mentira
+T004,4,Palabra,W,Wañusqa,Muerto
+T005,5,Palabra,W,Mana kaqniyuq,Pobre
+T006,6,Palabra,W,Machula,Anciano
+T007,7,Palabra,W,Amaychura,Caquexia
+T008,8,Palabra,W,K´amiy,Reprender
+T009,9,Palabra,W,Chakata,Cruz
+T010,10,Palabra,W,Chikchi,Granizo
+T011,11,Palabra,W,Chukchu,Paludismo
+T012,12,Palabra,W,Aquyraki,Infortunio
+T013,13,Palabra,W,Tuta,Noche
+T014,14,Palabra,W,Iphu,Llovizna
+T015,15,Palabra,W,Mallki,Árbol
+T016,16,Palabra,W,Maway,Primeras papas
+T017,17,Palabra,W,Qasa,Helada
+T018,18,Palabra,W,Rurukuna,Granos
+T019,19,Palabra,W,Sasachaykuna,Problemas
+T020,20,Palabra,W,Yawar,Sangre
+T021,21,Palabra,W,Qarqusqa,Despreciado
+T022,22,Palabra,W,Huchasapa,Culpable
+T023,23,Palabra,W,Ruphasqa,Quemado
+T024,24,Palabra,W,Sipikuq,Suicida
+T025,25,Palabra,W,T’aqasqa,Separarse
+T026,26,Palabra,W,Ñak’arichiy,Torturar
+T027,27,Palabra,W,Maqay,Violencia física
+T028,28,Palabra,W,Llamk’ay,Trabajo
+T029,29,Palabra,W,Ñak'ariy,"Padecer, sufrir"
+T030,30,Palabra,W,Onqoy,Enfermarse
+T031,31,Palabra,W,P’itiy,"Arrancar, reventar"
+T032,32,Palabra,W,Qhenchachay,Contaminar de mala suerte
+T033,33,Palabra,W,Upallay,Enmudecer
+T034,34,Palabra,W,Urmay,Caer
+T035,35,Palabra,W,Ñak´ariy,"Sufrir Necesidades, desperdiciarse"
+T036,36,Palabra,W,Utirayay,"Quedarse Rendido, inmovilizado"
+T037,37,Palabra,W,Wanay,Escarmentar
+T038,38,Palabra,W,Yukay,Engañar
+T039,39,Palabra,W,Tukuy,"Dar Fin, rematar"
+T040,40,Palabra,W,Thutayay,Apolillarse
+T041,41,Palabra,W,Thantayay,"Envejecer, raer la ropa usándola"
+T042,42,Palabra,W,Tanqay,Empujar
+T043,43,Oración,S,Mana atinichu,No puedo
+T044,44,Oración,S,Lamparay chinkaruwan,Se me perdió mi lampa
+T045,45,Oración,S,"Mana haykunchu, nishu hatunmi",No entra porque es demasiado grande
+T046,46,Oración,S,Kiruy nanawan,Me duele la muela
+T047,47,Oración,S,Mana allinta ruwawan,Me hace mal
+T048,48,Oración,S,Qanwanmi rimayta munani,Quiero hablar contigo
+T049,49,Oración,S,Para chayashan,Está lloviendo
+T050,50,Oración,S,Mamaysi wañukapusqa,Dice que mi madre murió
+T051,51,Oración,S,Pelotata hayt’arani,Solía jugar fútbol
+T052,52,Oración,S,Osqhayllan llaqtata rishani,Están yendo rápido al pueblo
+T053,53,Oración,S,Khishka chaykiyta chhukuruwan,La espina pinchó mi pie
+T054,54,Oración,S,Manan imapas mikhunapaq kanchu,No hay nada para comer
+T055,55,Oración,S,Mikhuchinaypaqmi mañakuwaran,Me pidió que le diera de comer
+T056,56,Oración,S,Nishutan chirimanta ñak'arini,Sufro mucho con el frío
+T057,57,Oración,S,Mana mikhusqanmi tulluyarapun,Se enflaqueció por no comer
+T058,58,Oración,S,Juan ashkha ususiyuq,Juan tiene muchas hijas
+T059,59,Oración,S,Mana puriyta yachanchu,No sabe caminar
+T060,60,Oración,S,Machula wañurun,El anciano falleció
+T061,61,Oración,S,Kay t'antaqa nishuta ch´akirapusqa,Este pan se ha puesto muy duro
+T062,62,Oración,S,Paymi maqawaran,Él me pegó
+T063,63,Oración,S,Marion chhulliwan onqorapun,Mario se ha enfermado con la gripe
+T064,64,Oración,S,Manan qhelqayta yachanichu,No sé escribir
+T065,65,Oración,S,"Wira runaqa ashkhata mikhun, ichaqa p'itayta mana atinchu","Las personas gordas comen bastante, pero tienen dificultades para correr"
+T066,66,Oración,S,Aman noqamanqa nishuta chinpamuwaychu,No te aproximes mucho a mí
+T067,67,Oración,S,Imamanta llankipakushanki?,¿Por qué suspiras?
+T068,68,Oración,S,"Mana paraqtinqa, hanaq pachapas anqasmanraqmi tukupun","Cuando no va a llover, hasta el cielo se pone de color azul."
+T069,69,Oración,S,"Ima sasachakuypas atikullanmi, ichaqa wañuyllan mana atikunchu",Cualquier problema tiene solución menos la muerte.
+T070,70,Oración,S,Omnibusmi runakunantin qaqaman qaqapaykun,Un bus con pasajeros se ha caído al barranco
+T071,71,Oración,S,Huk camionmi warmita sarurapun,Un camión ha atropellado a una señora
+T072,72,Oración,S,Karru apaqqa wañusqan kashan,El chofer está muerto
+T073,73,Oración,S,Ishkaynin runan maqanarukun,Los dos hombres se pelearon
+T074,74,Oración,S,Sisiqa parananta yachaspanmi mikhunanta huñun,La hormiga junta sus alimentos sabiendo la epoca de lluvia
+T075,75,Oración,S,Tayta kurapas aqsuyuqmi kaq,Los sacerdotes usaban sotanas
+T076,76,Oración,S,Chaka tulluymi nanawan,Me duele el ilíaco
+T077,77,Oración,S,Wawaqa mancharikuspa chawpi mayupi waqayta qallarin,La niña asustada empezó a llorar en medio del río
+T078,78,Oración,S,Chiqnikuyqa manapunin allinchu,La envidia nunca es buena
+T079,79,Oración,S,Hamak’uqa uywakunaq yawarninta ch’unqaspan tulluyachin,La garrapata enflaquese a los animales chupándoles la sangre
+T080,80,Oración,S,Hamp’atutaqa manan wañuchinachu,No hay que matar a los sapos
+T081,81,Oración,S,Michiqa wawqeypa makintan kanirparin,El gato mordió la mano de mi hermano
+T082,82,Oración,S,Kawsayniyqa manan kawsaychu,Mi vida no es vida
+T083,83,Oración,S,Kusi kusichaqa parananpaqmi uraykamun,La arañita desciende por su hilo señalando que lloverá
+T084,84,Oración,S,Khallwakunaqa parananpaqmi phawaykachan,La aparición de las golondrinas anuncia la presencia de lluvias
+T085,85,Oración,S,Ch’unchull khipuwanmi chay runaqa wañuran,Esa persona murió con oclusión intestinal
+T086,86,Oración,S,Phuyu kuruqa p'achayta mikhurapusqa,La polilla había carcomido mi ropa de lana
+T087,87,Oración,S,Washwaqa manan unutaqa manchakunchu,El pato no tiene miedo a las aguas
+T088,88,Oración,S,Mach'aqllaña runakunapaqa chawpi kawsayninmi tukukapun,Las personas que se embriagan a menudo pierden parte de su vida
+T089,89,Oración,S,Machu runaqa tawnayuqmi puriykachakunpas,El hombre anciano camina con bastón
+T090,90,Oración,S,Chay alqochaypa mamanqa wañupunmi,La madre de mi perrito se murió
+T091,91,Oración,S,Chay qochas huk runata hullp'urapusqa,Dicen que la laguna se tragó a esas personas
+T092,92,Oración,S,Manan paqarinqa hamuyta atisaqchu,El día de mañana no podré venir
+T093,93,Oración,S,Chirimantan chaki tulluykunan nanawan,Me duelen las articulaciones de los pies por el frío
+T094,94,Oración,S,Mana kuchuyuq kasqaymi nishuta umay nanawan,Me duele la cabeza por estar sin sombrero en el sol
+T095,95,Oración,S,Ruphaypi tarpusqa mallkichakunaqa osqhayllan ch´akirapun,Las plantitas transplantadas en pleno sol se marchitan muy rápidamente
+T096,96,Oración,S,Michiqa huk'uchachatan k'umuykachachinraq,El gato humilló al ratón
+T097,97,Oración,S,Manan mishk'i ruruyuq sach'akunaqa kanchu,No hay ningún árbol frutal
+T098,98,Oración,S,Phiñasqa kaspaqa manan imatapas allintaqa ruwasunchu,"Si estamos enojados, nunca podemos hacer bien las cosas"
+T099,99,Oración,S,Tayta Juanqa chaki tulluntan q'ewirukusqa,El señor Juan se había quebrado el hueso del pie
+T100,100,Oración,S,Qara t’iqichuta t’aqllaspa lloq’e maki uña ruk’anayta q’ewirqukuni,"Al volear la pelota, me torcí el dedo meñique de la mano izquierda"
+T101,101,Oración,S,Paqarinqa manan pukllaq riytaqa atisunmanchu,Mañana no podremos ir a jugar
+T102,102,Oración,S,Juanqa manan khuyakuyta yachanchu,Juan no sabe amar
+T103,103,Oración,S,Rikuwanki chayqa waqasaqmi,"Si me ves, lloraré"
+T104,104,Oración,S,"Manan wawqey, nitaq panaypas kanchu",No tengo hermano ni hermana.
+T105,105,Oración,S,Ichhu pichanaqa tukurakapunmi,La escoba de paja se ha terminado
+T106,106,Oración,S,Apuraylla chay karu llaqtamanta kutimunki,Regresas rapido de ese puelo lejano
+T107,107,Oración,S,Panchoqa mamantan llakichin,Pancho causa tristeza a su mamá
+T108,108,Oración,S,Toqro umaykiqa manan imatapas yuyanchu,Tú cabeza hueca no se acuerda de nada
+T109,109,Oración,S,Sikiypin pikiqa kaniruwaran,La pulga me picó en las posaderas
+T110,110,Oración,S,Kaypi wasikunaqa munaychakunan,Las casas son muy bonitas en este lugar
+T111,111,Oración,S,Alqolla llapan kisuta mikhurqakapusqa.,el perro se había comido todo el queso.
+T112,112,Oración,S,Makiypi k’irichayqa ña k’illayashanña,La herida de mi mano ya está cicatrizando.
+T113,113,Oración,S,Manan allin warmakunaqa manan rikraypi ninriypi t'ispipayawaytaqa saqenkuchu,Los niños malos no dejan de pellizcarme en los brazos o en las orejas.
+T114,114,Oración,S,Manan ch'ulla runallapas haykunchu,no cabía ni una persona más
+T115,115,Oración,S,Huk suwan wasimasiyta qatimusqa,Un ladron le habia seguido a mi vecino
+T116,116,Oración,S,"Sapa kuti, manan pipas ima pasaymantapas ayqekunchu","Poco a poco, nadie está a salvo del riesgo cotidiano de accidentes."
+T117,117,Oración,S,Phiñakuyninwanmi taytaqa ususinta waqachin,El padre hace llorar a su hija con su furia.
+T118,118,Oración,S,Ch'uspichan wawaypa makichanta kaniramusqa,La mosquita le había picado la mano de mi hijo
+T119,119,Oración,S,Kaqniyuq runakunaqa mana kaqniyuqkunatan saruchakuranku,Los adinerados siempre humillaron a los pobres.
+T120,120,Oración,S,Alqoypas chirimanta k’uytuykun,Mi perro por el frío se ha encogido.
+T121,121,Oración,S,Ancha anyapayasqa warmakunaqa nishutan k'ulluyarapunku,Los niños frecuentemente reprendidos se vuelven curtidos
+T122,122,Oración,S,K’urkur sach’aqa soqosmanta aswan allinmi,La caña de curcur es más consistente que el carrizo
+T123,123,Oración,S,K'urpakunata huñusun oqata wayk´unapaq,Juntemos terroncitos secos para asar las ocas
+T124,124,Oración,S,Muk´i p'achawan churakusqaymi chaka tulluykunata nanarachiwan,Me duelen los huesos de la pierna por haberme acostado con la ropa húmeda.
+T125,125,Oración,S,Kay sara apiqa ancha pipun kashan,Esta mazamorra de maíz está muy espesa.
+T126,126,Oración,S,Runakunaqa chinlinyaq alakhakunawanmi tusunku,Las personas danzan con cascabeles.
+T127,127,Oración,S,Chay wawaqa ancha yachaysapan,Esa criatura tiene muchos conocimientos.
+T128,128,Oración,S,Ñandumanqa manan uywapi p'itaspaspas aypasunchismanchu,Al ñandú no le podemos dar alcance ni corriendo a caballo.
+T129,129,Oración,S,Bolivia Mama llaqtapiqa chayanta qhuyakunapi runaqa llank’an͘,En las minas de estaño de Bolivia trabajan muchas personas.
+T130,130,Oración,S,Unchuchukuqa mana rikuchikuspallan runakunata qhawan,La comadreja observa a las personas sin ser visto
+T131,131,Oración,S,¿Pitaq kay t'ikakunata t´iraran?,¿Quién arrancó esas flores?
+T132,132,Oración,S,Muyuq wayraqa manataqmi kanchu kay llaqtakunapiqa,El viento remolino no es común en estos pueblos
+T133,133,Oración,S,Llink'i hallp´´ a utaq kuyuchisqa hallp´aqa paraqtinmi t'uruyapun,La tierra arcillosa o la removida se pone barrosa cuando llueve.
+T134,134,Oración,S,Machaq runakunaq wawankunaqa ruqru umakunan paqarinku,Los hijos de las parejas alcohólicas nacen tontitos como Marianito.
+T135,135,Oración,S,"Llapanmi imaynallapipas kasqan kanchis, ichaqa wañuy llapanchista suyawanchis.",Todos son iguales al menos de una manera: la muerte nos espera a todos.
+T136,136,Oración,S,Hukta qhawarinaypaqqa manañan reqsisqaykunaqa kasqachu,En un cerrar y abrir de ojos ya no estaban mis compras
+T137,137,Oración,S,Ch'inñeq wayq´opin atoq chitachata mikhurapusqa,En una quebrada silenciosa el zorro se lo había comido al corderito.
+T138,138,Oración,S,Juicio tukunankaman carcelpi kamunqa,Mientras dure el juicio ella estará en la cárcel.
+T139,139,Oración,S,Paqarinmi chay mawk'a wasita thuñichisunchis,Mañana derribaremos esa casa vieja.
+T140,140,Oración,S,Wakcha runakunataqa khuyapayaykunan,Hay que tener compasión de la gente pobre
+T141,141,Oración,S,"Hawataqa chirishanmi, kay ukhuman haykumuy",Afuera está haciendo frío; entra aquí
+T142,142,Oración,S,"Ama samasunchu, iphumullashanmi","No descansemos, esto solamente es una llovizna"
+T143,143,Oración,S,"Hawlapi wisq´asqa kaspaqa mana sasachu khuyay kay, t´oqoq rakhu k´aspinta qhawaspa mana atichinchu wakin rikuyta.","No es difícil ser triste y apático cuando se está encerrado en la cárcel, mirando las gruesas barras de hierro que interrumpen la vista por la ventana."
+T144,144,Oración,S,Chhullimanta hampikunapaqqa sisa qesamanta unuchatan upyana,Para curarse de la tos del resfriado es bueno tomarse mates de ortiga crespa
+T145,145,Oración,S,Llakisqa kaqtiyqa yuyayniymi chinkarin,Cuando tengo pena pierdo la memoria
+T146,146,Oración,S,"Adobekunatan ruwasharani, paran hark'aruwan","Estuve haciendo adobes, la lluvia nos ha entorpecido"
+T147,147,Oración,S,"Munakusqay sonqochay, urpichay, panachay ¿Hayk'aqmi hamunki?","Mi apreciado corazón, mi palomita, mi linda hermana, ¿cuándo vendrás?"
+T148,148,Oración,S,Nishu llakisqalla kaqtinchisqa sonqonchismi sayarunman,Por constantes preocupaciones podemos sufrir un infarto cardíaco
+T149,149,Oración,S,"Ashkha ñawinchanaykichismi kashan, tutakamachá rikch´ankichis","Tienen mucho que leer, estarán despiertos hasta tarde"
+T150,150,Oración,S,"Qhopo wasakunataqa ninkun: llullakuyninkunatan q'epishan, nispan",A las personas jorobadas les dicen que cargan sus mentiras.
+T151,151,Oración,S,Chay kamachikuy qhellqata qespichiyta atisunmanmi,Podemos apelar esa orden
+T152,152,Oración,S,¿Iman taytaykiq sutinqa? Manapuni yuyanichu,¿Cómo se llama tu padre? La verdad es que no me acuerdo
+T153,153,Oración,S,"Kuru papantaqa khuchipaq akllasunchis, ñut’untataq ch’uñupaq","Escogeremos las papas agusanadas para los chanchos y las menudas, para el chuño"
+T154,154,Oración,S,Achuqchataqa roqotutahina hunt’achispam wayk’unapas mikhunapas,Las caiguas se preparan y se comen rellenas como el rocoto
+T155,155,Oración,S,"Panay papa allayta yanaparuway, chaypiña watyata mikhusunchis","Hermanita, ayúdame a escarbar mis papas; ahí comeremos huatia"
+T156,156,Oración,S,Chay warmiqa ashkha qharikunawan puriqmi,Esa mujer es quien anda con varios hombres
+T157,157,Oración,S,Kuka raphitaqa ñawinta ama k’irispalla k’iptarqusunchis.,Arranquemos las hojas de la coca sin dañar las yemas.
+T158,158,Oración,S,Purun qowikunaqa montekunapin apurayllaman miran,Los cuyes silvestres se reproducen muchísimo en los pastizales.
+T159,159,Oración,S,Tablakunata apurayllaman ruwasun wasi qatanapaq,Preparemos tablas para techar la casa.
+T160,160,Oración,S,Q'ewisqa q'aytuqa apurayllamanmi p´itikun,El hilo muy torcido se rompe muy fácilmente.
+T161,161,Oración,S,Warmakunan wanqoyruq mishk'inta mikhusharanku,Los niños estaban comiendo la miel del moscardón
+T162,162,Oración,S,Ch´umpi sisi yana sisiwan maqanakushanku,La hormiga café esta peleando con la hormiga negra
+T163,163,Oración,S,Chay warma waqashan,Esa niña esta llorando
+T164,164,Oración,S,"Payqa patanpi puriqllan kpaypaq kasqa, p ítanaq q´oshñinhinallan kasqa.",Ella era solo una fase pasajera para él; Significaba tanto como un humo de cigarrillo.
+T165,165,Oración,S,Llakipi kayqa aswan kallpatan wañuymanta munan.,El sufrimiento requiere más coraje que la muerte.
+T166,166,Oración,S,Cheqaqmi mit´aq pasasqanmanhina ishkay runapi waylluyqa pisiyanmi.,Una de las piezas de evidencia más convincentes para el paso del tiempo es que el amor entre dos personas disminuyen.
+T167,167,Oración,S,"Khuyaqmi kani khuyayninpin kawsani, mana reqsisqahina, allinpinin, sumaqpunin.","Soy melancólica(o) y me deleito en mi propia tristeza, como si fuera algo desconocido, especial, maravilloso."
+T168,168,Oración,S,Nishu llakisqan kawsani,Vivo muy afligido
+T169,169,Oración,S,Paqochaqa chunka hukniyuq killamanta wachan,Las alpacas paren a los once meses
+T170,170,Oración,S,Wawqeykunaqa kinsan hinallataq kinsan panaykunapas,"Mis hermanos son tres, mis hermanas también son tres"
+T171,171,Oración,S,Haciendapi capatasconaqa llullakunan kasqaku,Los capataces de las haciendas eran unos mentirosos
+T172,172,Oración,S,Hatun huñunakuypiqa ishkay kanpunin q'aminakuq,En las grandes reuniones hay eventos en los que dos participantes se insultan mutuamente
+T173,173,Oración,S,Surump’iwan hapisqa ñawiqa millaytan k’arakun,Los ojos afectados por el surumpi arden insoportablemente
+T174,174,Oración,S,Runaqa ch'uyan kawsanan ima huchachanamantapas hinallataq mana cheqnikuywan,La gente debe vivir limpia de toda culpa y sin odios.
+T175,175,Oración,S,Yuthuqa kinsa runtullantan churan,La perdiz solamente pone tres huevos
+T176,176,Oración,S,Tukuy lawpipas rumiqa kanpunin,En cualquier lugar siempre hay piedras.
+T177,177,Oración,S,Chay rimarisqayraykun maqanarukun,Por motivo de ese comentario se pelearon.
+T178,178,Oración,S,¿Pitaq tasata p'akirun?,¿Quién desportilló esa taza?
+T179,179,Oración,S,Wasipiqa nishu wallpakunan kashan,En la casa hay muchas gallinas
+T180,180,Oración,S,Millayta wayrata mikhusqanchis qhepanman khasapakunchis.,Eructamos desagradablemente luego de comer ingiriendo aire.
+T181,181,Oración,S,Mamaymi kinsa watachayuqllamantaraq panachayta manaña ñuñuranñachu,Mi mamá destetó a mi hermanita menor recién a los 3 años.
+T182,182,Oración,S,Suwaqa llamatas rutushasqa...,Dicen que el ladrón estaba trasquilando la llama…
+T183,183,Oración,S,Sach'akunaqa q'omerllañan pukyukunaq kasqanpi wiñan,Los árboles crecen muy verdes en los manantes
+T184,184,Oración,S,Mana allin ch’irwasqa ch’uñuyuq chayruqa millay k’arku.,El chairo con chuño mal lavado y mal exprimido es agrio.
+T185,185,Oración,S,Ichhu wasitaqa ñañu k'aspikunallawanmi ruwakun,Las casas de paja las hacemos con palos delgados.
+T186,186,Oración,S,Noqapaqqa manan imapas qhepasqachu,Para mí no quedó nada
+T187,187,Oración,S,Ishkaynin tapukuykunata kutichiy,Escribe las respuestas de las dos preguntas
+T188,188,Oración,S,"Sichus pipas llipsi nispa waqhasunki, yanqallamanta kallpayki ñawpaqman lloqsiyta chinkachinki.","Cuando alguien te llama débil, de repente pierdes fuerza y entusiasmo para continuar la lucha contra la adversidad."
+T189,189,Oración,S,"Hampitan kallpayuq kanaypaq ukhiyarani, ichaqa manan imtapas yanapawanchu.","Conté con el medicamento para darme coraje y autoconfianza, pero no ayudó en absoluto."
+T190,190,Oración,S,Rimayniykikunata niy.,Argumenta tus ideas
+T191,191,Oración,S,Qhelqay imayna rimayniykikunata.,Escribe tus argumentos
+T192,192,Oración,S,"Ashkha runakuna kan, sapa kuti mana runahinachu kanku.","Hay más y más personas, que son cada vez menos humanas."
+T193,193,Oración,S,Qan atoqman rikch'akunki,Tú teatralizarás al zorro
+T194,194,Oración,S,Allin yuyayniyuq runakunan khuyaypunin kay teqsimuyupi kashanku.,Personas verdaderamente geniales están condenadas a una gran tristeza en este mundo.
+T195,195,Oración,S,"¡Runa! ¡Mich´a hallp´a, manan pasaqpaqchu kanki!","¡Hombre! ¡Miserable polvo, eres efímero!"
+T196,196,Oración,S,¿Mayqentaq allin akllakuy kanman?,¿Cuál sería la mejor elección?
+T197,197,Oración,S,"Ñawita wisq´aymanmi, llapan imapas allinmi kashan niymanmi, ichaqa manapuni wisq´asqa ñawiwan kawsayta atikunmanchu.","Podía cerrar los ojos, fingir que todo está bien, pero es imposible vivir con los ojos cerrados."
+T198,198,Oración,S,Kay sasachakuyta allinchay,Resuelve el problema
+T199,199,Oración,S,"Ch´usaq pampapi sapallan kashan, ashkha runapihina sapallan.","Está solitario en el desierto, igual de solitario como entre las personas."
+T200,200,Oración,S,Manan imapas kanchu machuyahina sapalla.,No hay nada más triste que la desolación provocada por la vejez.
+T201,201,Oración,S,Qori t'ika hat'un t'antata rakirparin,Flor de oro dividió un pan grande
+T202,202,Oración,S,"Hampiqkuna imaymanta ruwasqanku qhepaman, warmi Medina wañupuran.","Después de los muchos esfuerzos del médico, murió la Sra. Medina"
+T203,203,Oración,S,T'antaq chaninta qawariy,Observa el precio del pan
+T204,204,Oración,S,K´irimanta waqakunmanmi ch´ulla kaypi manan hayk´aypas qhaliyanchu.,Uno solo puede llorar por las heridas que nunca se curan en la soledad.
+T205,205,Oración,S,Tullunkuna nanay imaymana ruwayta mana atichiranchu chaymi yanapayta muyuynipi tiyaqkunamanta chaskiran.,El reumatismo que retorció sus articulaciones hizo imposible muchas actividades diarias y le destinó a recibir la ayuda de su entorno.
+T206,206,Oración,S,"Asikuy uyanmanta yanqalla chinkarapun, llakikiymantaq waykun.","La diversión en su rostro desapareció repentinamente, reemplazada por preocupación."
+T207,207,Oración,S,Payqa manan allin mamachu,Ella no es una buena madre
+T208,208,Oración,S,Payqa carcelpin kashan,Él está en la cárcel
+T209,209,Oración,S,Manan kay atipanakuypaqa amachaqtaqa munankichu,No necesita abogado para este juicio
+T210,210,Oración,S,Manan wawakunawanqa yanapawanchu,No me ayuda con los niños
+T211,211,Oración,S,Qolqeqa maynillanpin wañuymanta aysasunkiman.,El dinero rara vez puede salvar a alguien de la muerte.
+T212,212,Oración,S,Wañunakaman mana t´ikrakuymanchu ninin.,Consideró que no cambiaría hasta la muerte.
+T213,213,Oración,S,Teqsimuyu sumaq kaytaqa manan sasachu qonqay.,Es tan fácil olvidar lo maravilloso que es el mundo.
+T214,214,Oración,S,"Qhatuna wasipi suwakuypiqa, qolqe chaskiq pasaqtapuni p´anasqa kasqa chaymanta wañupuran","Durante el robo de la tienda, el cajero fue brutalmente golpeado y murió."
+T215,215,Oración,S,"Makinkurayku askha runakuna llallinakuranku, ichaqa pay qarquran kusikuyta ch´ulla kaypi mashkaspa.","Muchos hombres compitieron por su mano, pero ella los rechazó, buscando la felicidad en soledad."
+T216,216,Oración,S,"Wañuyman waykuspa, runaqa ch´usaqpi kan, chaymanta rikch´arispa, manan imatapas yuyarinchu.","Cayendo en un coma, una persona se disuelve en la nada, y después de que se despierta, generalmente no recuerda nada."
+T217,217,Oración,S,Kawasayqa pisiyan k´anchayhina thantachanpas kanakapun.,La vida se atenúa como una vela cuya mecha se ha quemado.
+T218,218,Oración,S,"Maman yana p´achawan churakusqa wañuqninta yuyarispa chayraykun, Yvonn phishqa wata taytan wañusqan qhepaman paqariran.","Debido al luto de su madre, Yvonne nació 5 años después de la muerte de su padre."
+T219,219,Oración,S,Kay onqoyqa llapan teqsimuyupin wañuyta apamun.,Esta enfermedad ha traido muerte en todo el mundo.
+T220,220,Oración,S,¡Akakallaw covid onqoywan wasi masiy wañurqapusqa!,¡Qué pena mi vecino murió con la enfermedad de Covid!
+T221,221,Oración,S,Hampina wasipin ashkha runakuna wañunku,En el hospital  han muerto muchas personas.
+T222,222,Oración,S,Huk wayna ishkay chunka watayuq motomanta urmaykusqa hinaspa wañupusqa.,Un joven de 24 años sufrió accidente en la moto y murió.
+T223,223,Oración,S,Phishqa watayuq erqekuna ch´oqhumanta aswanta chiri mit´api wañunku.,Los niños de 5 años  de la tos mueren más rapido en el invierno.
+T224,224,Oración,S,Sapa wata yapakun askha warmikunaq wañuyninku.,Cada año se incrementa la muerte de muchas mujeres.
+T225,225,Oración,S,Ñankunapi tiyaq alqokuna manan mikhunata tarinkuchu hinaspa tulluyaspa wañupunku.,Los perros callejeros no encuentran comida luego mueren desnutridos.
+T226,226,Oración,S,Runakuna manan mallkikunata tarpunkuchu chaymi pacha nishuta q´oñirishan.,La personas no plantan árboles es uno de los factores por lo que hay el calentamiento.
+T227,227,Oración,S,Erqe mamanpa wañusqanmanta waqan.,El niño llora porque su madre murió.
+T228,228,Oración,S,Huk wayna chakamanta wukchuyukusqa hinaspa wañupun.,Un joven se lanzó del puente y murió.
+T229,229,Oración,S,Mama churin mana wasinman kutimusqanmanta waqan.,La madre llora porque su hijo no vuelve a la casa.
+T230,230,Oración,S,Erqe anchata karru alqonta saruruqtin waqasqa.,El niño lloró mucho porque el carro lo atropelló su perro.
