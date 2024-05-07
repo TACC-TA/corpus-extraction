@@ -1,0 +1,231 @@
+ID,N°,Tipo,T,Quechua ,Traducción (español)
+C001,1,Palabra,W,Chita,Oveja
+C002,2,Palabra,W,Chaka,Puente
+C003,3,Palabra,W,Theqti,Fritura
+C004,4,Palabra,W,Qore,Oro
+C005,5,Palabra,W,Lloqlla,Avalancha
+C006,6,Palabra,W,Lawita,Quena
+C007,7,Palabra,W,Lawa,Sopa
+C008,8,Palabra,W,Senqa,Nariz
+C009,9,Palabra,W,Kiru,Diente
+C010,10,Palabra,W,Tuku,Búho
+C011,11,Palabra,W,Sillwi,Luciérnaga
+C012,12,Palabra,W,Wira,Grasa
+C013,13,Palabra,W,Ismusqa,Podrido
+C014,14,Palabra,W,Oqoruru,Berro
+C015,15,Palabra,W,Yana,Negro
+C016,16,Palabra,W,Hinapunin,Efectivamente
+C017,17,Palabra,W,Kumpari,Compadre
+C018,18,Palabra,W,Hunt’a,Lleno
+C019,19,Palabra,W,Ch´usaq,Vacio
+C020,20,Palabra,W,Anqas,Azul
+C021,21,Palabra,W,Yachaysapa,Inteligente
+C022,22,Palabra,W,Q éwi,Chueco
+C023,23,Palabra,W,Aqnapunin,Asi es
+C024,24,Palabra,W,Phiña,"Molesta, brava"
+C025,25,Palabra,W,Llasa,Pesante
+C026,26,Palabra,W,Hampina wasi,Centro de Salud
+C027,27,Palabra,W,Qhatuna wasi,Mercado
+C028,28,Palabra,W,T’ika,Flor
+C029,29,Palabra,W,Chayraq ruwasqa kisu,Queso fresco
+C030,30,Palabra,W,Runtu,Huevo
+C031,31,Palabra,W,Uchu,Ají
+C032,32,Palabra,W,Kachi,Sal
+C033,33,Palabra,W,Wishlla,Cucharón
+C034,34,Palabra,W,Manka,Olla
+C035,35,Palabra,W,P´uyñu,Cántaro
+C036,36,Palabra,W,Kuchuna,Cuchillo
+C037,37,Palabra,W,P’uku,Plato
+C038,38,Palabra,W,Theqtichina,Sartén
+C039,39,Palabra,W,Aycha,Carne
+C040,40,Palabra,W,Q´oncha,Cocina
+C041,41,Palabra,W,Maran,Batán
+C042,42,Palabra,W,Kachichana,Salero
+C043,43,Oración,S,Allillanmi kashani,Estoy muy bien
+C044,44,Oración,S,Noqa runa simita yachani,Yo aprendo quechua
+C045,45,Oración,S,Noqa hamawt´a kani,Yo soy científico
+C046,46,Oración,S,"Sasapunin, runakunaqa hatun phiñachiykunatan panpachankuman. ","Aunque no es fácil, las personas son capaces de perdonar incluso las transgresiones más graves."
+C047,47,Oración,S,Tiyanapi tiyasaq,Me sentaré en la silla
+C048,48,Oración,S,Qan qhapaq suyuta ñawpaqman pusanki,Tú diriges el pais hacia adelante
+C049,49,Oración,S,Pay willakuyta apakachan,Él lleva de un lado a otro el informe
+C050,50,Oración,S,Uraypi waka kashan,La vaca está abajo
+C051,51,Oración,S,Noqapa taytayqa Rubén,Mi padre es Rubén
+C052,52,Oración,S,T´antata apamuspa hamurani,Vine trayendo pan
+C053,53,Oración,S,Ladrillukuna k´aspikuna wasi ruwanapaq oqarikunmanmi.,Los ladrillos o la madera se pueden usar para construir una casa.
+C054,54,Oración,S,Mana imatapas nisaqchu,No digo nada
+C055,55,Oración,S,Wasiman ripusaq,Me iré a casa
+C056,56,Oración,S,Qosqomanta hamuni,Vengo de Cusco
+C057,57,Oración,S,Uywankuta michinku,Se dedican a pastar sus animales
+C058,58,Oración,S,Q´oncha punkupi tiyanchis,Nos sentamos al lado del fogón
+C059,59,Oración,S,Pawqar waray killapi tusuni,Bailo en el mes de marzo
+C060,60,Oración,S,Runakunaqa allintan ruwayninkuta hunt´anku sichus wakpan kaqtin manahinachu paykunaq ruwayninku kaqtinqa.,Las personas tienen una sensación de cumplimiento cuando hacen más por otros que por sí mismos.
+C061,61,Oración,S,Qan layqan kanki,Tú eres brujo
+C062,62,Oración,S,Paykuna yanankuwan michisqaku,Ellas habrían pastoreado con sus enamorados
+C063,63,Oración,S,Kamachikuyman hina,De acuerdo a lo que el manda
+C064,64,Oración,S,Mayninpi thakta tariswan ancha hatun llaki kaqtinpas.,Eventualmente podemos encontrar alivio incluso después de la mayor angustia.
+C065,65,Oración,S,Wakman munakuyta qhawachiyqa allin kawsayta apamuwanchis.,Mostrar sensibilidad hacia los demás proporciona un increíble sentido de armonía.
+C066,66,Oración,S,Sasachakuy khuyay mit´a qhepamanqa sumaqpunin kakun. ,Es maravilloso sentir relajación completa después de un período de problemas y estrés.
+C067,67,Oración,S,Manchakuy khuyay qhepamanqa thakniyuq kayqa allinpunin.,La calma y la tranquilidad son dichas después de sentir estrés y miedo.
+C068,68,Oración,S,Noqanchismi llank'anchis,Nosotros trabajamos
+C069,69,Oración,S,Kayqa thañillanqan,Esto pasará
+C070,70,Oración,S,"Rikchasqa hina kasunchis, ama mancharikusunchu","Estar alerta, no es alarma"
+C071,71,Oración,S,Tiyaykuy,Tome asiento
+C072,72,Oración,S,Pay tusun,Ella baila
+C073,73,Oración,S,"Arequipapi tiyani, kaymanta kani.","Vivo en Arequipa, soy de aquí."
+C074,74,Oración,S,Apurimaqninta Limaman ripusaq,Viajaré a Lima por Apurimac.
+C075,75,Oración,S,Qanwanmi kashani,Estoy contigo
+C076,76,Oración,S,Manan imapas sasaqa kanchu,No hay nada imposible
+C077,77,Oración,S,Mikhushanin,Estoy comiendo
+C078,78,Oración,S,Chakraypi papa kan,En mi chacra hay papa
+C079,79,Oración,S,Llaqtaypi lisas kan,En mi pueblo hay olluco
+C080,80,Oración,S,Rodolfo wakata qhawaykachan,Rodolfo mira continuamente la vaca
+C081,81,Oración,S,Diana ñañanta kusipayan,Diana se alegra de su hermana
+C082,82,Oración,S,Paykunawan waqanki,Lloras con ellos
+C083,83,Oración,S,Killachay punchawpi chukuta rantisaq,El lunes compraré un gorro
+C084,84,Oración,S,Noqa wasiykikama rini,Yo voy hasta tu casa
+C085,85,Oración,S,Qam mamaywan purinki,Tú caminas con mi mamá
+C086,86,Oración,S,Pay orqomanta wasinkama rinqan,Él corre desde el cerro hasta su casa
+C087,87,Oración,S,Noqanchis alqonkuwan pukllanchis,Nosotros jugamos con sus perros
+C088,88,Oración,S,Noqayku wallpaykita mikhuyku,Nosotros comemos a tu gallina
+C089,89,Oración,S,Noqa wallpata mikhushani,Yo estoy comiendo a la gallina
+C090,90,Oración,S,Qan killata rikushanki,Tú estás viendo la luna
+C091,91,Oración,S,Noqanchis Telita qhawashanchis,Nosotros miramos la TV
+C092,92,Oración,S,Mamanchi llank´ayta munan.,Nuestra madre quiere trabajar
+C093,93,Oración,S,Qan qhelqayta munanki,Tu quieres un escrito
+C094,94,Oración,S,Confianza esperanza nisqakuna runakunata ruwayniku ruwayta atichin.,La confianza y la esperanza permiten que las personas establezcan objetivos extraordinarios.
+C095,95,Oración,S,Dios yanapawanchun allin runa nispa alqoy nihina.,Dios me ayude a ser la persona que mi perro piensa que soy.
+C096,96,Oración,S,"Kikinmanhina, runa saksasqan qheman wikch´un yaraqayta.","De acuerdo con su naturaleza, el hombre desprecia el hambre después de satisfacer su apetito."
+C097,97,Oración,S,Sophie kikimantahina ruwaqman tukupun llapan onqoqkuna ruwasqanta munanku,Sophie se convirtió en voluntaria cuya devoción es apreciada por todos los pacientes en el hospicio.
+C098,98,Oración,S,Manan kusichu  mana chalwayuq qochaman riyqa huk larupitaq ashkha challwayuq qocha kan chayqa.,No es divertido ir a un lago donde no hay peces cuando hay otros lagos cercanos con mucho.
+C099,99,Oración,S,"LLaqtan atiyniyuqpuni karqan, warmikuna lichita, aychata, qarakunata apamuranku.","El pueblo era autosuficiente: las mujeres proporcionaban leche, carne y pieles."
+C100,100,Oración,S,"Samp´a kasqaykimanta kallpata ruway, samp´aykiqa manan sap´añachu kanqa.","Haz  de tu debilidad tu fuerza, y dejará de ser tu debilidad."
+C101,101,Oración,S,Qan akllayta atinki,Tú puedes escoger
+C102,102,Oración,S,Kikinmanta ruwaqkunan huk runakunapi qhawayta yachachisqa.,El voluntariado la hizo interesarse en otras personas.
+C103,103,Oración,S,Paqarin tutamanta kutimunki,Regrese mañana en la mañana.
+C104,104,Oración,S,Filapi suyakamuy,Espere en la fila.
+C105,105,Oración,S,Celularta salaman haykuspa upallachiy,Apagar el celular cuando ingrese a esa sala
+C106,106,Oración,S,Allillamanta rimaykuway,Hábleme más lento.
+C107,107,Oración,S,Ch’aqra muhuta llaqtaman qatun,Él vende granos de la chacra al pueblo
+C108,108,Oración,S,imaymana k’irichiskunata Pakaychis,Guarde los objetos peligrosos
+C109,109,Oración,S,Taytamamaykiq wasinman ripuy,Vaya a la casa de sus padres
+C110,110,Oración,S,Psicologon warmaykitaqa tapunqa yanapananpaq,Un psicólogo va a hacerle preguntas a su hija/o para ayudarla
+C111,111,Oración,S,Pruebakunata apamunayki,Tiene que traer pruebas
+C112,112,Oración,S,Ima ratupas kutimuyta atinki,Puede volver en cualquier momento
+C113,113,Oración,S,Qankuna yachachiq kankichis,Ustedes son profesores
+C114,114,Oración,S,Paqarin tutallamanta hamunki,Venga mañana temprano
+C115,115,Oración,S,Noqanchis sinchi kanchis,Nosotros somos policías
+C116,116,Oración,S,Lloq´emanta phañakama purini,Yo camino desde la izquierda hasta la derecha
+C117,117,Oración,S,Kaylawmanta chaylawman haykun,Él/ella entra desde este lado hacia aquel lado
+C118,118,Oración,S,Machula t’ikakunamanta moqokama purin,El anciano camina desde las flores hasta la colina
+C119,119,Oración,S,Warmikuna wasinkunamanta qhatuna wasiman rinku,Las mujeres van desde sus casas hacia el mercado
+C120,120,Oración,S,Warmakuna yanacha wasimanta sach´a sach´aman phawanku,Los niños se apresuran desde la escuela hacia el bosque
+C121,121,Oración,S,Noqa taytamamaywan tiyarqani,Yo viví con mis padres
+C122,122,Oración,S,Q’omer ponchowan churaway,Ponme el poncho verde
+C123,123,Oración,S,Ch’ulluwan churasqa kashani,Tengo puesta la gorra/sombrero
+C124,124,Oración,S,Ch’uspikunaqa qhellikunamanta onqoykunata runaman apan,Las moscas transportan enfermedades de los basurales a las personas
+C125,125,Oración,S,Pay yachay wasinmanta kaykama hamun,Él viene desde su colegio hasta aquí
+C126,126,Oración,S,Kulli sarata t’impuchispa kulli aqhataqa ruwanku,La chicha morada se elabora hirviendo el maíz morado
+C127,127,Oración,S,K’urkur sach’aqa suqusmanta aswan sinchin,La caña de curcur es más consistente que el carrizo
+C128,128,Oración,S,Onqoqqa wasimanta hampina wasiman rin,El enfermo va desde su casa hacia el hospital
+C129,129,Oración,S,"Wikch’usqa raqaykunataqa ""mawk’a llaqta"" nispa sutiyanku","Las ruinas de ediĮcios antiguos se llaman ""pueblos viejos"""
+C130,130,Oración,S,Ch’eqche llikllata rantiway,Cómprame la manta colorida
+C131,131,Oración,S,Pay harawi ruwaq,Él/ella (es) poeta
+C132,132,Oración,S,Qhellqasqakunata ñawinchaspaqa yachayninchista kallpachanchis,Leyendo escritos reforzamos nuestros saberes
+C133,133,Oración,S,Sara qarpanapaqqa yarqhanta unuta pusamusunchis,Conduciremos el agua por canales para regar la chacra de maíz.
+C134,134,Oración,S,Q’oya ichuqa unuyuq oqokunapi allinta wiñan,La paja de la variedad coya se produce en los lugares húmedos
+C135,135,Oración,S,Taytaykuq ima saqesqantapas mana maqanakuspam rakinakusaqku,Nos repartiremos sin discusiones las cosas que dejó nuestro padre
+C136,136,Oración,S,Noqanchis hampiqkamayuqta yanapanchis,Nosotros ayudamos al doctor
+C137,137,Oración,S,Saywan sutin kay rumi perqasqaqqa,Este muro de piedras se llama hito
+C138,138,Oración,S,Ishkay sikyaqa huk rikran,Dos varas constituyen una brazada
+C139,139,Oración,S,Pay waka michiqmi,El es el pastor de vacas
+C140,140,Oración,S,Karullanmanta napaykunakusunchis.,Saludémonos de lejos
+C141,141,Oración,S,Runakunamanta karunchakuy,Ejerza el distanciamiento social
+C142,142,Oración,S,Ama manchakuychu,Mantenga la calma
+C143,143,Oración,S,Pukllasqan,El había jugado
+C144,144,Oración,S,Llank’aspaymi sayk’uni,Me canso después de trabajar
+C145,145,Oración,S,Mikhuspa hamun,Vino después de comer
+C146,146,Oración,S,Chayamunmi,Me consta que llegó
+C147,147,Oración,S,Sapa p’unchawsi takini,Dicen que todos los días canto
+C148,148,Oración,S,Tayta mamayqa sumaq runa kanku,Mis padres son buenas personas
+C149,149,Oración,S,Paykunaqa noqawan tiyanku,Ellos viven conmigo.
+C150,150,Oración,S,Taytayqa hatun qharin,Mi padre es un hombre de gran tamaño.
+C151,151,Oración,S,Ichaqa mamay huch’uylla,Mi mamá es bajita no más.
+C152,152,Oración,S,Taytaypa hukchanqa yuraqña mamaypaqta manaraq,El cabello de mi padre ya está blanco y el de mi madre aún no.
+C153,153,Oración,S,Rumikunaqa mayupi kashan,Las piedras están en el río
+C154,154,Oración,S,Khuchikuna q’opa patapi tiyanku,Los chanchos viven en el basural
+C155,155,Oración,S,Runakuna chakrapi llank’anku,Las personas están trabajndo en la chacra
+C156,156,Oración,S,Mamaykichiskuna chitata michinku,Vuestras mamas pasean ovejas
+C157,157,Oración,S,Mamanku llaqtata rinku,Sus mamás han ido al pueblo
+C158,158,Oración,S,Q'ewisqa makita hampin,Cura la mano torcida
+C159,159,Oración,S,Alqo lawata mikhun,El perro come la mazamorra
+C160,160,Oración,S,Noqa qoyllorta rikuni,Veo una estrella
+C161,161,Oración,S,Pedro t’antata apan,Pedro lleva pan
+C162,162,Oración,S,Noqa chakraypi sarata tarpuni,Yo siembro maiz en mi chacra
+C163,163,Oración,S,Waynapura p'itaypi llallinakunku,Entre jovenes corriendo se ganan
+C164,164,Oración,S,Warmipura mikhunata wayk’unku,Entre mujeres cocinan la comida
+C165,165,Oración,S,Ñawsa waka kasqa,La vaca está ciega
+C166,166,Oración,S,Hamp’atu mana yawarniyuq kasqa,El sapo no tiene sangre
+C167,167,Oración,S,Papay chay aqata upyaykuy,"Papá, tomate esa chicha"
+C168,168,Oración,S,Juliacha aychata k’aspiman warkuy,Julia cuelga la carne
+C169,169,Oración,S,"Juancha, awichaykita puñuysiy","Juan, acompaña a dormir a tu tatarabuela"
+C170,170,Oración,S,Mario papaykita llank’aysiy,Mario ayuda a trabajar a nuestro padre
+C171,171,Oración,S,Mikhunata wawqeykiman apariy,Comienza a llevar la comida a tu tío
+C172,172,Oración,S,Maymaykita may risqanman qatikuy,Sigue a tu mama a donde vaya
+C173,173,Oración,S,Yachay wasipa punkunqa kichasqapunin kashan,La puerta de la escuela está siempre abierta
+C174,174,Oración,S,llaqtaypi sara wiñan,En mi pueblo crece maíz
+C175,175,Oración,S,Kay hamp´arapi wishwi kashan,En esta mesa está el aceite.
+C176,176,Oración,S,Chay mankapi wishlla kashan,En esa olla está la cucharón.
+C177,177,Oración,S,Wak ukyanapi yaku kashan,En aquel vaso está el agua.
+C178,178,Oración,S,Kay kachipi ch’arki kashan,En esta sal está el charki/carne seca.
+C179,179,Oración,S,Wak chirichinapi sara kashan,En aquella refrigeradora está el maíz.
+C180,180,Oración,S,Chay k’anallapi uchu kashan,En esa tostadora está el ají.
+C181,181,Oración,S,Kay mankapi wallpata mikhuni,En esta olla como gallina.
+C182,182,Oración,S,Chay wishllapi yaku kashan,En ese cucharón hay agua.
+C183,183,Oración,S,Wak wasipi mamay kashan,En aquella casa está mi mamá.
+C184,184,Oración,S,Kay p’uyñupi upi kashan,En este cántaro está la chicha.
+C185,185,Oración,S,Chay qeropi yawar kashan,En ese kero está la sangre.
+C186,186,Oración,S,Kay aycha theqtichinapi kashan,Esta carne está en la sartén.
+C187,187,Oración,S,Chay t´anta hamp´arapi kashan,En esa mesa está el pan.
+C188,188,Oración,S,Wak yuraq runtukuna mankapi kashan,En aquella mesa están los huevos.
+C189,189,Oración,S,Kay mishk'i uchukuta maranpi kashan,Este delicioso rocoto molida esta en el batán.
+C190,190,Oración,S,Wak asna api p’ukupi kashan,Aquella mazamorra apestosa está en el plato.
+C191,191,Oración,S,Noqa sumaq warmita munani,Yo quiero a una chica linda.
+C192,192,Oración,S,Qan mishk´i lawata mikhunki,Tú comes una sopa dulce.
+C193,193,Oración,S,Pay hatun wasipi tiyan,Él vive en una casa grande.
+C194,194,Oración,S,Noqa haya wallpata wayk´uni,Yo cocino una gallina picante.
+C195,195,Oración,S,Mana allin theqtichina kan,Hay una sartén malograda.
+C196,196,Oración,S,Yayaykichis qoncho yakuta t’inpuchin,Nuestro tío hierve el agua turbia.
+C197,197,Oración,S,Noqa kay mishk'i apita mikhuni,Yo como esta mazamorra dulce.
+C198,198,Oración,S,Qan chay huch´uy wallpata wayk´unki,Tú cocinas esa gallina pequeña.
+C199,199,Oración,S,Pay waq hatun wasipi tiyan,Él vive en aquella casa grande.
+C200,200,Oración,S,Noqanchis kay sumaq mankata ruwanchis,Nosotros hacemos esta olla hermosa.
+C201,201,Oración,S,Noqayku chay ch’uya orqoman riyku,Nosotros vamos hacia ese cerro limpio.
+C202,202,Oración,S,Qankuna qoncho qochapi kashankichis,Ustedes están en aquella laguna turbia.
+C203,203,Oración,S,Paykuna kay munay takipi tusunku,Ellos bailan en esta bonita canción.
+C204,204,Oración,S,Noqa kay mishk´i lawata mikhuni,Yo como sopa de maíz sabrosa.
+C205,205,Oración,S,Q’ochapi chirichina kashan,La refrigeradora esta en la laguna.
+C206,206,Oración,S,Taytaypa makin llank’ananpaq,La mano de mi papá sirve para que trabaje.
+C207,207,Oración,S,Wawqeykunaq chankinku purinankupaq,Los pies de mis hermanos sirven para que ellos caminen.
+C208,208,Oración,S,China michi purishan,La gata esta caminando.
+C209,209,Oración,S,Warmi wayk´ushan,La mujer está cocinando.
+C210,210,Oración,S,Qankuna tarukata qatikacharankichis,Ustedes perseguían el venado.
+C211,211,Oración,S,"Llapan warmikunapin atiyniyuq kallpa tarikun, qhapaq yachay, kallpa ñawpaq yachaywanpuni.","En todas las mujeres se encuentra una fuerza poderosa, una riqueza de instintos, fuerza y ​​una antigua sabiduría eterna."
+C212,212,Oración,S,Huk mana pagaspalla yachay ñawpaqman puriytan yanapan sapa p´unchay llakikuytataq chinkachipun.,Una beca proporciona oportunidades para el desarrollo del talento y elimina las preocupaciones diarias.
+C213,213,Oración,S,Runaq ruwakuyninqa killapi runa purisqanmi.,El vértice de la realización humana es el hombre que caminó sobre la luna.
+C214,214,Oración,S,Khuyayqa procesiónhinan; huk ratulla.,La tristeza es como una procesión; Siempre pasa.
+C215,215,Oración,S,Wayna sipaslla kayqa manan ima millaykunatapas sonqonchispi kachinachu. ,El secreto para permanecer joven es abstenerse de sentir cosas que no nos sientan.
+C216,216,Oración,S,Wiksa allin kayqa saphin llapan imapas allin kananpaq.,El placer del estómago es la base y la raíz de todo bien.
+C217,217,Oración,S,Llank´ana sapankaq kawsaynin kasqanpi churayqa kusikuypaqpunin allin kan.,Un equilibrio entre el trabajo y la vida personal es la clave de la felicidad.
+C218,218,Oración,S,"Melonpaq mishk´iynin weqiynin, huk ruphay p´ucaypi mikhusqaqa, sumaqpunin kunkapaq kanqa.","El sabor de un melón jugoso y dulce, comido en un día caluroso, asegura un deleite real para el paladar."
+C219,219,Oración,S,Mana sasa ruwaykunaqa maynillanpin ruwakun.,Las cosas simples son siempre las más inusuales.
+C220,220,Oración,S,"Sasan wak runakunaq llallisqanpi kusi tariyqa, ichaqa ancha kusikuyta llalliy apamunman.","No es fácil encontrar satisfacción en las victorias de otras personas, pero puede brindar tanta alegría al ganar."
+C221,221,Oración,S,"Manan qhepata kutiyta atikunñachu, ichaqa allin ñawpaqman puriytan tarina. ","Ya que es imposible volver atrás, se debe encontrar la mejor manera de seguir adelante."
+C222,222,Oración,S,Poqosqa franbuesakunaq mishk´in chay asnayninwan haqay q´oñi mit´aq sukrankunata yuyarichin.,La dulzura de las frambuesas maduras y ese olor singular recuerda las tardes de verano.
+C223,223,Oración,S,Luruqa rimanman rimaykunata mana runaq rimasqanta ima. ,Un loro puede incluso decir palabras que un humano no repetirá.
+C224,224,Oración,S,Ñawpaq ruwayqa kikin ruwaqpaqpunin sapallanpuni utaq musuqyarichiy kamaq yuyaysapa yuyanninin.,Una patente protege el logro original y único o la innovación que es el resultado del genio creativo de la mente del inventor.
+C225,225,Oración,S,"Huk millay runaqa kan, ishkay millaymanta, ishkayninta akllan.","Un pesimista es alguien que, eligiendo entre dos males, elige ambos."
+C226,226,Oración,S,"Qolqe waqaychanapaqqa, rantisqanchiskunata allinta qhawana.","Para tener ahorros, debemos equilibrar nuestro presupuesto."
+C227,227,Oración,S,"Huk wata qhepaman llank´asqanmanta, Anne rintiqpa pusaqnin tukupun.","Después de trabajar durante un año, Anne se convirtió en el asesor principal del cliente."
+C228,228,Oración,S,Musoq mashkaymi nin sapa kuti pisi runan yayaq wasinman rinku.,La investigación más nueva confirma que cada vez menos personas asisten a la iglesia.
+C229,229,Oración,S,Ayakuna atawikunapi churasqa kasqaku Egipciokunaq ruwasqanmi kasqa.,Las momias fueron colocadas en tumbas y fueron hechas por egipcios.
+C230,230,Oración,S,"Wañuypipas,  allinpunin huk khumpayuq kay yachayqa.","Incluso ante la muerte, es bueno saber que tienes un amigo."

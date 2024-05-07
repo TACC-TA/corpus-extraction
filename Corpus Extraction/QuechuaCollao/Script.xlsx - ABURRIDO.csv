@@ -1,0 +1,231 @@
+ID,N°,Tipo,T,Quechua ,Traducción (español)
+B001,1,Palabra,W,Ch’arwi,Desorden
+B002,2,Palabra,W,Runa,Persona
+B003,3,Palabra,W,Chanin,Precio
+B004,4,Palabra,W,Puka,Rojo
+B005,5,Palabra,W,Hallp’a,Tierra
+B006,6,Palabra,W,Rikuq,Testigo
+B007,7,Palabra,W,Wasimasi,Vecino de casa
+B008,8,Palabra,W,Tullu,Flaco
+B009,9,Palabra,W,Walla,Policía
+B010,10,Palabra,W,Murmu,Mediano
+B011,11,Palabra,W,Amu,Mudo
+B012,12,Palabra,W,Aqo,Arena
+B013,13,Palabra,W,Ch’apra,Maleza
+B014,14,Palabra,W,Ch’uru,Caracol
+B015,15,Palabra,W,Hallmay,Aporque
+B016,16,Palabra,W,Chakmay,Preparado de tierra para la siembra
+B017,17,Palabra,W,Quichwaruna,Quechuas
+B018,18,Palabra,W,Respetuwan,Respeto
+B019,19,Palabra,W,Rurukuna,Granos
+B020,20,Palabra,W,Yupaykuna,Numeros
+B021,21,Palabra,W,Suchi,Remesa/encargo
+B022,22,Palabra,W,T'ika,flor
+B023,23,Palabra,W,Uywanakuy,Crianza mutua
+B024,24,Palabra,W,T'aqwiy,Investigar
+B025,25,Palabra,W,Suyu,País
+B026,26,Palabra,W,llulla,Mentira
+B027,27,Palabra,W,Chinkakuq,Fugitiva
+B028,28,Palabra,W,Onqoy,Embarazada
+B029,29,Palabra,W,Qorqoy,Roncar
+B030,30,Palabra,W,Sayay,Parar
+B031,31,Palabra,W,Nanay,Adolorecer
+B032,32,Palabra,W,Chhulliy,Estornudar
+B033,33,Palabra,W,Qawalayay,"Curiosear, moscorear"
+B034,34,Palabra,W,Kumpay,Tumbar
+B035,35,Palabra,W,Laq'apakuy,Tropezar
+B036,36,Palabra,W,Qhawakuy,Mirarse en espejo
+B037,37,Palabra,W,Thaltuy,Babear
+B038,38,Palabra,W,P’enqachiy,"Avergonzar, causar vergüenza"
+B039,39,Palabra,W,Q’ellachay,Cicatrizar
+B040,40,Palabra,W,Qellakuy,"Flojear, ociosidad"
+B041,41,Palabra,W,Chutay,Alargar. Estirar
+B042,42,Palabra,W,T’akay,Derramar
+B043,43,Oración,S,Pata-patakunapi sarata tarpuranku,Cultivaban en andenes el maíz
+B044,44,Oración,S,Kaqninchiskunamanta yachasunchis,Aprendamos sobre patrimonio
+B045,45,Oración,S,Asnuyki qaparqachayshan,Tú burro está rebuznando
+B046,46,Oración,S,Truchakuna mayupi kashan,Hay truchas en el río
+B047,47,Oración,S,Mesa patapi tiyakushan,Está sentado encima de la mesa
+B048,48,Oración,S,Churakun huk punchuwan,Se puso un poncho
+B049,49,Oración,S,Chay sarusqapa sutinmi yupi,Esas pisadas se conocen con el nombre de huellas
+B050,50,Oración,S,Kawallupin tiyuyki hamusqa,Tú tío vino a caballo
+B051,51,Oración,S,Pukllanaykiraykun hamunki,Vienes porque quieres jugar
+B052,52,Oración,S,Llant’ata rantirani,Compré la leña
+B053,53,Oración,S,Papata Rosa rantinqa,Rosa comprará papa
+B054,54,Oración,S,Wasinpi takiyta yachachiwan,Me enseña a cantar en su casa
+B055,55,Oración,S,Anselmo Juanpiwan sara t'ipiq rinqaku,Anselmo y Juan irán a la cosecha de maíz
+B056,56,Oración,S,Yaku rupha kashan,El agua está caliente
+B057,57,Oración,S,Huk'uchakuna sarata anchata mikhun,Los ratones comen mucho maíz
+B058,58,Oración,S,Wawaykita q'epirikuy,Cárgala al bebé
+B059,59,Oración,S,Tarukakuna orqokunapi tiyan,El venado vive por los cerros
+B060,60,Oración,S,Arequipa t'antata qosqayki,Le doy pan de Arequipa
+B061,61,Oración,S,Ñañantinpura munanakunku,Entre hermanas se quieren
+B062,62,Oración,S,Pishqa wawayuq kani,Tengo cinco hijos
+B063,63,Oración,S,Nisqanmanhina,De acuerdo a lo que dice
+B064,64,Oración,S,Noqa papata mikhushani,Yo estoy comiendo la papa
+B065,65,Oración,S,Rivistata qhawashani,Estoy mirando una revista
+B066,66,Oración,S,Noqanchis yachaywasi ukhupi kashanchis,Nosotros estamos en el salón
+B067,67,Oración,S,Runa chakra ukhupi puriykachan,Esa persona camina sin rumbo en nuestra chacra
+B068,68,Oración,S,Mamay mukhuta tukuylawman apaykachashan,Nuestra mama lleva la semilla de aqui para allá
+B069,69,Oración,S,Qaqa qaqapiqa manan pipas tiyanchu,En los roquedales nadie vive
+B070,70,Oración,S,Papa chakramanta lliw qorakunata orqosunchis,De la chacra de papas hay que deshierbar todas las malezas.
+B071,71,Oración,S,Munapayasqa runakunaqa mana allin rikusqan,Las personas desaseadas no son bien vistas.
+B072,72,Oración,S,Gary Leandron sullk'a wawaypa sutinqa,Mi hijo menor se llama Gary Leandro͖
+B073,73,Oración,S,Payqa Juliacapi paqariran.,El nació en Juliaca
+B074,74,Oración,S,Qhepa p'unchawkunapi icha llaqta umalliq kayman,En los días venideros tal vez sea autoridad.
+B075,75,Oración,S,Hap'iy yachaq hinallataq ch'illiku mikhuq alqokunaqa wirallañan wiñanku,Los perros que cazan y comen grillos se mantienen gordos.
+B076,76,Oración,S,Huk payacha wirullata hanch'uq,Una abuelita que sólo come caña
+B077,77,Oración,S,Muyu muyu wayraqa hallp´ata huqarisparaq muyun.,El remolino levantando la tierra produce polvo.
+B078,78,Oración,S,Noqaykurayku chay huñunakuyman rinki,Por favor asiste a esa reunión en representación nuestra.
+B079,79,Oración,S,Chaymantaña lapitutaqa rantisunchis,Ya después compraremos el sombrero.
+B080,80,Oración,S,Kay raqachaqa rumumanmi rikch’akun.,Esta racacha se parece a la yuca.
+B081,81,Oración,S,Qapariqtinñan khatatatayta saqerun,Cuando se le gritó dejó de delirar
+B082,82,Oración,S,Tawa chunka watayuq kani,Tengo cuarenta años
+B083,83,Oración,S,Manaraqmi imatapas ruwankuchu,Todavía no han hecho nada
+B084,84,Oración,S,Llaqtamanmi seqaykapunku,Se fueron hacia el pueblo
+B085,85,Oración,S,Paykunan sinchikunawan rimashan,Ellos están hablando con el policía
+B086,86,Oración,S,Chay llaqtaqqa Pillpintun sutin,Ese lugar se llamaba Pillpintu
+B087,87,Oración,S,Chayqa manan lloq'e makichu,Esa no es la mano izquierda
+B088,88,Oración,S,Chay isankaqa mana aysanayuqmi,Esa canasta no tiene asa
+B089,89,Oración,S,Waka qaramantan tinya ruwakun,Del cuero de vaca se hace tambor
+B090,90,Oración,S,Kay huñunasqa runakunaqqa tigren sutinku,Este grupo se llama Los tigres
+B091,91,Oración,S,Kaypiqa lliw kamachikuykunatan uyarinayki,Aquí debes obedecer todas las órdenes que escuches
+B092,92,Oración,S,Hatun mankaman hich'ay unuta hinaspa astawan apamuy,"Vacía el agua a la olla grande, luego trae más agua"
+B093,93,Oración,S,Wawakunaqa chayhinata waqanku wiksanku nanaqtinmi,Las criaturas lloran de esa manera cuando tienen dolor de estómago
+B094,94,Oración,S,"Turukunaqa ishkay waqrayuqmi, tarukakuna ichaqa tawa waqrayuq kanku","Los toros poseen dos cuernos, en cambio los venados tienen cuatro"
+B095,95,Oración,S,Uywataqa allin ichhupi yakuq kasqanpin wataramunki,"Amarrarás al caballo en la paja, donde haya buen pastizal y agua"
+B096,96,Oración,S,¿Manachu winkuwan aqhataqa rakiwaq?,¿No podrías distribuir la chicha con el huinco?
+B097,97,Oración,S,Lawakunataqa k’aspi wisllawan qaywispakama wayk’una.,La mazamorra hay que cocinarla removiéndola constantemente con un cucharón de palo.
+B098,98,Oración,S,"Wasaymi anchata nanawan, yachaqwan kukata qhawachikamusaq",Tengo dolores fuertísimos en la espalda; iré donde la persona que lee la coca
+B099,99,Oración,S,Mamaymi wayk´uyta yachachiwan,Mi mamá me enseña a cocinar
+B100,100,Oración,S,Yoniqa ñawinchayta yanapawan,Yony me ayuda a leer
+B101,101,Oración,S,Hawa llaqtakunapiqa imatapas yanapanakuspapuni ruwanchis,En las comunidades rurales siempre realizamos cualquier trabajo ayudándonos los unos a los otros.
+B102,102,Oración,S,Wawakuna: paqarinpaqqa kay phishqa yapaykunata ruramunkichis,Niños: para mañana resolverán estas cinco sumas
+B103,103,Oración,S,Kaypi suyay niwanku,Me han dicho que espere aquí
+B104,104,Oración,S,Mana ima nisqantapas yachanichu,No entiendo lo que dice
+B105,105,Oración,S,Kimsa rikra wayitamantam kay warataqa sirapuwanku.,Este pantalón me lo cosieron de tres brazadas de bayeta.
+B106,106,Oración,S,Inka awkikunaqa yachaysapataq kallpasapataq karanku.,Los auquis de la época de los incas fueron muy sabios y forzudos.
+B107,107,Oración,S,Mana allin kawsaykuna kaqtinqa awkinchiskunata tapurikusunchis,Frente a las fatalidades de la vida consultemos a nuestros ancianos.
+B108,108,Oración,S,"Mana para kanchu, apukunatacha phiñarachinku","Hay mucha sequía, seguramente han ofendido a los espíritus de los cerros."
+B109,109,Oración,S,Ayrampu ruru hampi unuqa tukuy onqoy hampinapaqmi allin,El mate del fruto del airampo es bueno para curar muchas enfermedades
+B110,110,Oración,S,Noqaqa sara hinallataq mashwa chakrayuqmi kani,Yo soy propietario de chacras de maíz y de mashua
+B111,111,Oración,S,Phushkasqaymantaqa chanintan haywaripuwan,Por mi trabajo de hilado me pagaron lo justo
+B112,112,Oración,S,Paqonchiskunaqa mamaniq llamankunawanmi chapurakapusqa,Nuestras alpacas se habían mezclado con las llamas de los Mamani.
+B113,113,Oración,S,Nishuta ruphaykamushan icha tutaykuymanqa chikchiramunqa,Está soleando muy fuerte; seguramente más tarde ha de granizar
+B114,114,Oración,S,Wayna Pikchu orqoqa huk chuqupi tukun,El cerro Huayna Picchu termina en un cono mochado
+B115,115,Oración,S,Uywaqa ishkay llamaq q'epinantan apan,Un caballo carga lo que pueden llevar dos llamas
+B116,116,Oración,S,Kuchuq kiruqa aycha kuchunapaq,Los incisivos sirven para cortar la carne
+B117,117,Oración,S,Kay p'ukupi chay uchukutata churamuy,Recoge el ají molido en este platito
+B118,118,Oración,S,Manarami mana sasa ashkha runapi infección  hap´iyta yachaykuchu,Ni siquiera sabemos lo fácil que es capturar una infección en una multitud.
+B119,119,Oración,S,Ñawpaqqa thanta p'achakunallan t'oqoyuq karan,Antes solamente la ropa vieja tenía agujeros
+B120,120,Oración,S,Raphikunataqa k´ashkachinawanmi kikinpura k´askachikun.,Las hojas de papel se pegan entre sí con engrudo
+B121,121,Oración,S,Nishu q'eshwasqa q'aytuqa osqhayllan p´itikun.,El hilo muy torcido se rompe muy fácilmente
+B122,122,Oración,S,Lliw llaqtan paqarin huñunakuymanqa rinan,Toda la población tiene que concurrir mañana a la asamblea
+B123,123,Oración,S,Wakin uywakunaqa tawa chakiyuqmi,Algunos animales tienen cuatro patas
+B124,124,Oración,S,Qella warmakunaqa millayllatañan seq'eta ruwarusqaku,Los niños ociosos hicieron dibujos feos
+B125,125,Oración,S,K'aytuqa nishu wata watallañan kashan,El hilo está lleno de nudos
+B126,126,Oración,S,K'aspimanta ñaqch'aqa ruwakuyta atikunmanmi,Pueden fabricarse peines de madera
+B127,127,Oración,S,Suqta uyayuq pirwaqa machina sutiyuq,El cuerpo geométrico de seis caras se llama cubo
+B128,128,Oración,S,Patuqa unupi tuytun,El pato nada en el agua
+B129,129,Oración,S,Yachachiqniymi lapizwan seq'eta ruwachiwan,Mi profesor me hace dibujar con lápiz
+B130,130,Oración,S,Llink'i hallp´aqa resisqa tarinakunallapin kan,La arcilla plástica solamente se encuentra en lugares conocidos
+B131,131,Oración,S,Wasi pachanqa rumiwanpunin ruwakun,La cimentación de las casas siempre se levanta de piedras
+B132,132,Oración,S,Mankaq sikinqa phatarusqan,La base de la olla se había rajado
+B133,133,Oración,S,Sikutaqa phukuspa waqachina,La zampoña se toca soplando
+B134,134,Oración,S,Estados Unidos runakunaqa inglés simita rimanku,Los pobladores de los Estados Unidos hablan la lengua inglesa
+B135,135,Oración,S,Mistikunaqa sunkhasapa niraqllapuni kanku,Los mestizos generalmente son barbudos
+B136,136,Oración,S,Alqokunqa wakakunata muyurispan kaninku,El perro rodea al ganado ladrando cada noche
+B137,137,Oración,S,Paka mallkiqa tuqurupiqa misk’i unu kan,El árbol de la paca tiene agua en sus cañas
+B138,138,Oración,S,Sara chakramantaqa qorakunata saphintinta wikhana,Las malas hierbas deben ser arrancadas desde la raíz de las chacras de maíz
+B139,139,Oración,S,Mana qaywisqa lawa mankaqa tiyaruspa rupharunmanmi.,La olla de mazamorra que no se remueve puede asentarse y quemarse.
+B140,140,Oración,S,Qhillqana raphita mamaywan rantichikusaq.,Me haré comprar cuadernos con mi mamá.
+B141,141,Oración,S,Mayu unu qoncho kaqtinqa qocha washwakunan k'uykakunata mikhun,"Si las aguas de los ríos están muy turbias, entonces las gaviotas comen las lombrices de la tierra."
+B142,142,Oración,S,Kunan qhepa waynakunaqa manañan lawitata t'oqyachiyta munankuñachu,Los jovencitos de hoy ya no quieren ni tocar la quena
+B143,143,Oración,S,"Inkaqa qerupin aqhap ñawinta tayta intiman t’inkaq, chaymi allin kawsaykuna chay watakunapiqa kaq.",El Rey Inka asperjaba lo mejor de la chicha al Padre Sol y es por ello que durante esos años había buena cosecha.
+B144,144,Oración,S,Tupaq Amaru kuraq taytanchisqa awqa runakunamanta qespichiyta munaspas noqanchisrayku wañuyninta tarisqa.,Nuestro héroe Túpac Amaru dicen que encontró la muerte por liberarnos de los explotadores.
+B145,145,Oración,S,Chay qochamantas kuraq tayta mamanchis Manco Qhapaqwan Mama Oqlluwan lluqsimuq kasqaku,Dicen que nuestros primeros padres Manco Ccapac y Mama Ocllo salieron de ese lago
+B146,146,Oración,S,Qulli sach’aqa qheswar sach’aq yawar masinmi,El colli es pariente del quishuar
+B147,147,Oración,S,Qolqesapa runaqa qorimanta otaq qolqe alakhamanta kirunta churachikun,La gente adinerada se hace colocar dientes de oro o de plata.
+B148,148,Oración,S,Espinar llaqtamanta Santo Tomás llaqtamanqa Bellilli llaqtallantapuni rinchis.,De Espinar a Santo Tomás siempre tendremos que ir por Velille
+B149,149,Oración,S,"Qosqomanta Santo Tomasmantaq Tinkuq chakanta, mana chayqa Wallpa Chakallantaña.",Del Cuzco a Santo Tomás por el Puente Tincuc o de lo contrario por el Puente Huallpa Chaca.
+B150,150,Oración,S,Ichhu chakantapas rillasunchismanmi,También podemos ir por el Puente inca de paja.
+B151,151,Oración,S,"Chirimantapas, ruphaymantapas chhulli onqoyqa hap’illawanchismi.",El catarro puede producirse tanto por exceso de frío como de calor
+B152,152,Oración,S,"Aqowan, unuwan simintu qaywisqaqa utqayllan rumiyarqun.","La mezcla de arena, agua y cemento se petriĮca muy rápidamente."
+B153,153,Oración,S,Samán llaqta kayllapi huk orqo Imarukus sutuyuq kan .,Cerca al pueblo de Samán hay un cerro llamado Imarrucos.
+B154,154,Oración,S,K’ankaq mana sarusqan wallpaq runtunqa manas chiwchinmanchu.,El huevo de la gallina que no ha sido fecundada por el gallo no genera vida
+B155,155,Oración,S,Rurunninchisqa ashkha sankhachayyqkunan,Nuestros riñones tienen muchos canalitos
+B156,156,Oración,S,Mishk'i ruruq sach'akunaqa qowi akachawan wanuchasqan mishk'illataña rurun,Las plantas fortaleciéndose con estiércol del cuy dan buenos frutos.
+B157,157,Oración,S,Paqarinmi cebadata kuchuchisun,Mañana haremos segar la cebada
+B158,158,Oración,S,"Wik’uñataqa manaraq paray pacha qallarishaqtinmi rutuna, chaymi millwanqa usqhaylla kutimunqa.","Las vicuñas deben ser esquiladas antes de la época de lluvias, a fin de que su lana retoñe pronto."
+B159,159,Oración,S,Sapanka wawan ishkay chakiyuq hinallataq ishkay makiyuq,Cada niño tiene dos pies y dos manos.
+B160,160,Oración,S,Phiña  papallata mikhunki chayqa wiksaykin qolqolyan,"Si comes solamente papa amarga, te suelta el estómago."
+B161,161,Oración,S,Atiyniyuq inkaq warminqa qoyan kasqa,La esposa del todopoderoso Inca fue la coya.
+B162,162,Oración,S,Kay q'aytuta ishkay ishkaymanta kuruy,Ovíllame este hilo poniéndolo de dos.
+B163,163,Oración,S,Qasasqa ch’uñutaqa allinta saruspa ch’akichina; murayataqa mana sarunachu.,La papa helada se pisa y se hace secar para obtener un buen chuño͖ en cambio la moraya no se pisa.
+B164,164,Oración,S,Ichaqa puñuspaqa mana imata ruwaspan samanchis,En cambio al dormir y no hacer nada descansamos
+B165,165,Oración,S,Runakunaqa kallpawan otaq umalawan llank'aspapas pisipanchismi,"Sea con un trabajo intelectual o con un trabajo físico, los hombres siempre nos cansamos"
+B166,166,Oración,S,Iskay sikyaqa huk rikram.,Dos varas constituyen una brazada
+B167,167,Oración,S,Chumpi watutaqa tawa q’aytumantan otaq aswan mas ashkhamantapas q'eshwakunmi,Los pasadores de las fajas pueden trenzarse de cuatro o de más hilos.
+B168,168,Oración,S,Ñawpa warmi qharikunaqa ashka simp´ayuqsi kasqaku,"Los antiguos Canas, hombres y mujeres, dicen que usaban varias trenzas."
+B169,169,Oración,S,Huñunasqa rimaypiqa soqta simikuna tarikun.,la oracion esta formada por ocho palabras
+B170,170,Oración,S,"Waskhakunata mañariway, sach’akunatan wit'usaq.","Voy a tumbar árboles, préstame sogas."
+B171,171,Oración,S,Alqokunataqa washkhawanmi seq'ona,Al perro se le ahorca con una soguilla
+B172,172,Oración,S,Siwara aqhaqa allinpunin ch'akiypaq,La chicha de la cebada es muy buena para apagar la sed
+B173,173,Oración,S,Such’iq qaranqa wirallaña,La piel de los bagres es grasosísima
+B174,174,Oración,S,Mistikunaqa sunkhasapapunin kanku.,Los mestizos generalmente son barbudos
+B175,175,Oración,S,Chay rimasqan hawa maqanaykukunku,Por motivo de ese comentario se pelearon
+B176,176,Oración,S,Huk tawa k’uchuqa tawa k'uchuyuqmi,Un cuadrado tiene cuatro lados
+B177,177,Oración,S,"Chirapa niypas, k’uychi niypas kaqllan","Da lo mismo decir chirapa o k’uychi, ambos significan el arco iris"
+B178,178,Oración,S,Wanutaqa phishqa llamakunapin chakraman apasun,El abono vamos a trasladar a la chacra en cinco llamas
+B179,179,Oración,S,Paqarinmi sunkhaytaqa rutukusaq,Mañana me afeitaré los bigotes
+B180,180,Oración,S,"Sanki ruru pallaypas, mikhuypas sasallañan",El cosechar como el comer sanqui es diİcil
+B181,181,Oración,S,Llaqta amachaqpa llank'ayninta atiwaqmi mañakuyta,Tiene derecho a solicitar un abogado de oficio
+B182,182,Oración,S,Amachakuqkunaq llank'ayninqa mana qolqellapaqmi,El abogado de oficio es gratis
+B183,183,Oración,S,Manan amachaqman qopunaypaq qolqey kanchu,No tengo dinero para pagar un abogado
+B184,184,Oración,S,Antarata waqachispam saqra tusuytaqa tusunku,La diablada la bailan tocando la zampoña
+B185,185,Oración,S,Kuraq wawqeykiman kay qhelqata aparuy,"Por favor, llévale este escrito a tu hermano mayor"
+B186,186,Oración,S,Chakrayuqmi llank'aqninkunamanqa hunt'asqa papapi qopun,Cada dueño de chacra paga al guardián un camellón de papas
+B187,187,Oración,S,Wakaq ch'unchulninkunata churaspan atoqtaqa hap'inku,Colocando las tripas (del ganado) en las trampas se coge al zorro
+B188,188,Oración,S,Ayataqa nishuta waqayuspan aparqapunku,Llorando mucho se llevaron al cadáver
+B189,189,Oración,S,Challwa aychaqa ancha misk’ipuni,La carne del pescado es muy deliciosa
+B190,190,Oración,S,Noqaqa Kiswar Pampa ayllumanta kani,Yo soy de la Comunidad de Kishuar Pampa
+B191,191,Oración,S,Runakunaqa runakuna kanku runakuna kaynillankupi.,Los humanos son humanos solo en condiciones humanas.
+B192,192,Oración,S,"Anestesiapi, huk runa purin huk ch´usaq segundupi, mana imatapas llaminchu, mana imapipas musphanchu, mana imatapas yachanchu","Bajo anestésico, un hombre se desplaza por una fracción de segundo en un vacío, sintiendo nada, pensando en nada, sin comprender nada."
+B193,193,Oración,S,"Manan sasachakuytachu mashkashani, sasachakuymi noqata tariwan.",No estoy buscando problemas; Los problemas por lo general me encuentran.
+B194,194,Oración,S,"Chinkasqa runan kani; Allin yuyayniyuqmi  kallpayuqmi karani, ichaqa manan imatapas llaqtapaq ruwaranichu","Soy un hombre/mujer perdido(a); Tuve enormes capacidades y energía, pero no hice nada por la civilización."
+B195,195,Oración,S,Rakisqa cuadruta qhawasunchis,Miremos el cuadro de distribución
+B196,196,Oración,S,Raphi watuchi millay q´aya hamuqta nisqa; wasi qhepallapi wañuyqa pakakushan,Las cartas del Tarot se dispusieron en una profecía ominosa; La muerte se esconde a la vuelta de la esquina.
+B197,197,Oración,S,Kay tikapa chirunkunata yupay,Cuenta los lados de este rectángulo
+B198,198,Oración,S,Sapa hatun sasachaykuna manas sasa ch´uyanchaychu yaqa llapanqa manan cheqaqchu.,Cada problema complicado tiene una solución simple y la mayoría de las veces es incorrecta.
+B199,199,Oración,S,"Kawsaywan sasachakuyqa manan ruway kanchu, ñawpaqtan allin cheqaqtapuni ruwana.","El problema con la vida es que no hay práctica, tiene que tomarlo en serio la primera vez."
+B200,200,Oración,S,"Macbeth, Duncanta sipispa, pisita sonqon churasqanta mana kasusqachu.","Macbeth, matando a Duncan, abusó de su confianza un poco."
+B201,201,Oración,S,Sichus runa mana ayllunwan unay kan chayqa manan allin runachu kan.,El hombre que no pasa tiempo con su familia nunca será un verdadero hombre.
+B202,202,Oración,S,Kay mirachiypa yarquyninqa ch'usaqmi,El resultado de esta multiplicación es cero
+B203,203,Oración,S,¿Pitaq tawa ñeqenpi chayaran?,¿Quién llegó en cuarto lugar?
+B204,204,Oración,S,Rimayniyqa aswan thak runakunatan pisipachin.,Mi verbosidad desalienta incluso a la gente más paciente escuchándome.
+B205,205,Oración,S,"Pacha q´oñiriyqa, pacha kuyuyqa llapan kawsayninchispaq manapunin allinchu kanman.",Los cambios climáticos y los cataclismo asociados pueden ser una amenaza potencial para la estabilidad de todas nuestras vidas.
+B206,206,Oración,S,Tawa k'uchukunata yupariy,Cuenta los cuadrados
+B207,207,Oración,S,"Manan yacharanichu pitanakunaq wañuyman apasqanta, sapap´unchay.","No tenía idea de que los cigarrillos lo estaban acercando a la muerte, día a día."
+B208,208,Oración,S,¿Hayk´a tawa k'uchukuna tatkiyuqtaq kay hallp´a?,¿Cuántos metros cuadrados tiene el terreno?
+B209,209,Oración,S,"Warmikunawan manan imaynata rimayta atinichu, chayqa manan hayk´aqpas aylluyuq kasaqchu.","No sé cómo hablar con las mujeres, así que nunca comenzaré a una familia."
+B210,210,Oración,S,Runaqa manan hayk´aqpas kaqninwan  hunt´asqachu kashan ,Uno nunca está satisfecho con lo que uno tiene.
+B211,211,Oración,S,Llaqtaq punkuntan procesión ritualqa purisqa waqaqkunaq chawpinpi maqaqkunaq ch´aqwanwan.,La procesión ritual pasó la puerta de la ciudad en medio de los lamentadores y los aullidos de los flagelantes.
+B212,212,Oración,S,Payqa huk simanatan onqosqa kasqa sapa p´unchay puriqtin aswanta onqoyapusqa.,Ella había estado enferma por una semana y se sentía peor con cada día que pasaba.
+B213,213,Oración,S,"Pay mana munasqachu unu ukhiyayta, kurpun pasaqta sayk´usqa.","Él se negó a beber líquidos, causando un agotamiento extremo de su cuerpo."
+B214,214,Oración,S,Alfabetización Poloniapi manan kay watakunapi t´ikrakunchu.,El nivel de alfabetización en Polonia no ha cambiado en los últimos años.
+B215,215,Oración,S,Cheqaq wakcha kayqa huk runta t´ikranmanmi manataq khuyapayanmanchu wakinkunata.,La verdadera pobreza puede cambiar a una persona y privarlo de compasión por otros seres.
+B216,216,Oración,S,"K´uychichay p´unchayqa, Alexa chunka urasmi puñuran mishk´illatan mikhuran.","Los sábados, Alexa durmió durante diez horas y comió solo dulces."
+B217,217,Oración,S,"Maqanakuypi, mana allin kayqa ishkayninpin sasachay kashan.","En disputas, la falla generalmente se encuentra con ambos lados del conflicto."
+B218,218,Oración,S,Huk ritratuta qhawani pampapi yana qocha yawarmanta qhawakun.,Veo una fotografía que muestra un charco oscuro de sangre en la acera.
+B219,219,Oración,S,Llaqta ukhupi ashkha suwakuna kan celularkunata suwanku.,En la ciudad hay muchos ladrones que roban celulares.
+B220,220,Oración,S,Juanpa wasinpi huk erqe sapa p´unchay waqan.,En la casa de Juan hay un niño que llora todo los días.
+B221,221,Oración,S,Llaqta ayllukuna sapa kuti rimapakunku ruwayninkumanta.,Las comunidades campesinas siempre estan reclamando por sus derechos.
+B222,222,Oración,S,Ñankunapi tiyaq runakuna chaka ukhupi puñunku sapa tuta.,Los indigentes duermen debajo de los puentes todas las noches.
+B223,223,Oración,S,Ñawsa runakuna ñanta chimpanapaqqa sasachakunkun,Las personas invidentes tienen dificultad para cruzar la pista.
+B224,224,Oración,S,Sapa tuta kanmi runakuna tusuq lloqsinku hinaspa ch´awata ruwanku,Todas las noches hay personas que salen a divertirse y hacen escándolos en las calles.
+B225,225,Oración,S,Sapa p´unchay hampina wasipi onqosqa runakuna wañunku.,Todos los días en el hospital hay personas enfermas que mueren.
+B226,226,Oración,S,Erqekunapas anchatan chhulliwan ratachikushanku.,Tambien los niños se estan contagiando mucho con la gripe.
+B227,227,Oración,S,"Runakuna mana mikhuna mikhunankupaq kanchu, ñanpin qolqeta mañakunku.","Las personas que no tienen comida para comer, usualmente piden dinero en la calle."
+B228,228,Oración,S,Hampiqkuna ñan sayk´usqaña kanku chanin onqoqkunata hampispa.,Los médicos ya estan cansados de atender a tantos enfermos por la pandemia.
+B229,229,Oración,S,Hampiq yanapaqkunaqa onqosqa machuchakunata payachakunata yanapanku mayninpi wañupunku.,Las enfermeras atienden a los abuelitos muy enfermos que aveces se mueren.
+B230,230,Oración,S,Ashkha erqekunan kan sichus mana allinta qhawanku chayqa chinkapunkun mana hayk´aqpas tarinkuchu.,Hay muchos niños que sino los cuidan bien simplemente se pierden y nunca lo encuentran.
