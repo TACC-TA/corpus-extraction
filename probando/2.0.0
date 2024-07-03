@@ -1,0 +1,7 @@
+Collecting portalocker
+  Obtaining dependency information for portalocker from https://files.pythonhosted.org/packages/07/ff/52080172c7fdfa7c62f8cab014997178c19be9948607e977184dafc76522/portalocker-2.10.0-py3-none-any.whl.metadata
+  Downloading portalocker-2.10.0-py3-none-any.whl.metadata (8.5 kB)
+Requirement already satisfied: pywin32>=226 in c:\users\asus\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from portalocker) (306)
+Downloading portalocker-2.10.0-py3-none-any.whl (18 kB)
+Installing collected packages: portalocker
+Successfully installed portalocker-2.10.0
